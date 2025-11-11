@@ -584,7 +584,7 @@ class MTRCrawler:
         end_coords = end_point['coordinates']
 
         stops_obj = { "features": [{ "geometry": {"x": start_coords['lon'], "y": start_coords['lat'], "z": start_coords['z']} }, { "geometry": {"x": end_coords['lon'], "y": end_coords['lat'], "z": end_coords['z']} }] }
-        params = { 'stops': json.dumps(stops_obj, separators=(',', ':')), 'f': 'json', 'returnZ': 'true', 'outSR': 4326 }
+        params = { 'stops': json.dumps(stops_obj, separators=(',', ':')), 'f': 'json', 'returnZ': 'true', 'outSR': 4326, 'travelMode': '3' }
 
         try:
             response = requests.get(self.ROUTE_API_URL, params=params, timeout=30)

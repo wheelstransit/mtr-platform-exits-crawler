@@ -3,17 +3,17 @@
     "station_code": "AIR",
     "walk_time_minutes": 3.0122159108133415,
     "walk_distance_metres": 180.73295464880047,
-    "google_polyline": "kqegCselvT?AICEBMBODMDA?IBMDUFODOFA?C@????B?@?HEAGDA??HCDALEFELEVGDAFETG@?AIBA??",
-    "start_platform_amenity_id": "b3267df9-e9c6-4b67-9269-7914deff3845",
-    "end_platform_amenity_id": "4539141c-023c-4d65-a3c0-35b740ed8fad"
+    "google_polyline": "uqegCoflvT??C@@HA?UFGDE@WFMDGDMDE@IB??E@@FIDA?C?????BA@?NGNETGLEHC@?LENELCDCHB?@",
+    "start_platform_amenity_id": "4539141c-023c-4d65-a3c0-35b740ed8fad",
+    "end_platform_amenity_id": "b3267df9-e9c6-4b67-9269-7914deff3845"
   },
   {
     "station_code": "AIR",
     "walk_time_minutes": 3.0122159108133415,
     "walk_distance_metres": 180.73295464880047,
-    "google_polyline": "uqegCoflvT??C@@HA?UFGDE@WFMDGDMDE@IB??E@@FIDA?C?????BA@?NGNETGLEHC@?LENELCDCHB?@",
-    "start_platform_amenity_id": "4539141c-023c-4d65-a3c0-35b740ed8fad",
-    "end_platform_amenity_id": "b3267df9-e9c6-4b67-9269-7914deff3845"
+    "google_polyline": "kqegCselvT?AICEBMBODMDA?IBMDUFODOFA?C@????B?@?HEAGDA??HCDALEFELEVGDAFETG@?AIBA??",
+    "start_platform_amenity_id": "b3267df9-e9c6-4b67-9269-7914deff3845",
+    "end_platform_amenity_id": "4539141c-023c-4d65-a3c0-35b740ed8fad"
   },
   {
     "station_code": "TSY",
@@ -49,19 +49,19 @@
   },
   {
     "station_code": "TSY",
-    "walk_time_minutes": 6.266879932835517,
-    "walk_distance_metres": 376.0127959701309,
-    "google_polyline": "o{mgCoqmwT@AE?@G@C?C@I@G@G@G@I@G@G@G?CIAEAAH??Gf@??EVC??ACNC?AF??Gb@??AHCV??ETB@PBJBH@B@B?RBB@EXAJCLAJ?DA@B@??B???????????B@??F@BUBK?CFa@@KBM@I?C@KUC?A??SCBM?ABOBSEA",
-    "start_platform_amenity_id": "dd8fbb2b-3d4e-4d79-bc11-1b34520e68fd",
-    "end_platform_amenity_id": "32c837d1-e65d-4e4d-96de-2e1c8567a2e8"
-  },
-  {
-    "station_code": "TSY",
     "walk_time_minutes": 2.503955304551758,
     "walk_distance_metres": 150.23731827310544,
     "google_polyline": "o{mgCoqmwT@AE?@G@C?C@I@G@G@G@I@G@G@G?CIAEAAH??Gf@??EVD@H@ADAF?FAHAFAF??AFAFAHABB@",
     "start_platform_amenity_id": "dd8fbb2b-3d4e-4d79-bc11-1b34520e68fd",
     "end_platform_amenity_id": "647a88d2-9c0c-41d9-90da-aa0dae4c1ef7"
+  },
+  {
+    "station_code": "TSY",
+    "walk_time_minutes": 6.266879932835517,
+    "walk_distance_metres": 376.0127959701309,
+    "google_polyline": "o{mgCoqmwT@AE?@G@C?C@I@G@G@G@I@G@G@G?CIAEAAH??Gf@??EVC??ACNC?AF??Gb@??AHCV??ETB@PBJBH@B@B?RBB@EXAJCLAJ?DA@B@??B???????????B@??F@BUBK?CFa@@KBM@I?C@KUC?A??SCBM?ABOBSEA",
+    "start_platform_amenity_id": "dd8fbb2b-3d4e-4d79-bc11-1b34520e68fd",
+    "end_platform_amenity_id": "32c837d1-e65d-4e4d-96de-2e1c8567a2e8"
   },
   {
     "station_code": "KOW",
@@ -97,33 +97,49 @@
   },
   {
     "station_code": "KOW",
-    "walk_time_minutes": 4.12960522204455,
-    "walk_distance_metres": 247.77631332267293,
-    "google_polyline": "olcgCoexwT@CEC??MEFK?C??@?Ni@GCBMDM@EDOCAA?CA????B@??DDQNCHCJCHAHCHCHHBER??A@AFAAENAFHB??x@X??XJABCJGA?@?A",
+    "walk_time_minutes": 5.1907152000095484,
+    "walk_distance_metres": 311.44291200057296,
+    "google_polyline": "olcgCoexwT@CEC??MEFK?C??@?Ni@HB@C?ALc@?ABMK@G@QNCHCJCHAHCHCHA@ABADCBCDICKEA?GCKECJAFCAA??@??ABA?AA??A@?@??@??????A??B@d@NEPD@DBF@FBDBF@FBD@@@FBD@FBFBF@FBDB?@?A",
     "start_platform_amenity_id": "89db4665-ca95-4950-be3e-93b8387027b4",
     "end_platform_amenity_id": "d478f0bf-a5dd-4d0a-a26a-f1d299023d29"
   },
   {
     "station_code": "KOW",
-    "walk_time_minutes": 4.168096698477692,
-    "walk_distance_metres": 250.0858019086615,
-    "google_polyline": "olcgCoexwT@CEC??MEFK?C??@?Ni@GCBMDM@EDOCAA?CA????B@??DDQNCHCJCHAHCHCHHBER??A@AFAAENAFHB??x@X??XJ@EBKECCA??",
+    "walk_time_minutes": 5.143310901541584,
+    "walk_distance_metres": 308.5986540924951,
+    "google_polyline": "olcgCoexwT@CEC??MEFK?C??@?Ni@HB@C?ALc@?ABMK@G@QNCHCJCHAHCHCHA@ABADCBCDICKEA?GCKECJAFCAA??@??ABA?AA??A@?@??@??????A??B@d@NDOD@F@FBDBFBF@FBD@@@D@FBFBF@FBDBB???",
     "start_platform_amenity_id": "89db4665-ca95-4950-be3e-93b8387027b4",
     "end_platform_amenity_id": "d40d9fdb-affb-49d7-b8e1-98364500dfc6"
   },
   {
     "station_code": "HOK",
-    "walk_time_minutes": 3.7804173952833553,
-    "walk_distance_metres": 226.8250437170013,
-    "google_polyline": "ip_gC{qwwT@?A@CDCFCFA?DBB@EH?@S\\?@GLB@??NHCDEJEC?@??@@??A@CHA@CDADFD\\RJF@EECKGBGBGJUNYBEGCIGCAA?GGHUCA",
+    "walk_time_minutes": 0.2436139455659751,
+    "walk_distance_metres": 14.61683673395851,
+    "google_polyline": "ip_gC{qwwT@??AD@?@B@@?@@B@A@@@",
+    "start_platform_amenity_id": "308c93c4-6010-4991-85d0-307ce7c2cca3",
+    "end_platform_amenity_id": "61783574-a146-4e4f-a506-b6f3412641ec"
+  },
+  {
+    "station_code": "HOK",
+    "walk_time_minutes": 4.386014338378215,
+    "walk_distance_metres": 263.16086030269287,
+    "google_polyline": "ip_gC{qwwT@??AD@DI??N]??FMBB??B@DB@@HQ@C??@AFGBG@C@A?AFB??~@h@BB??DB??ABW@IECC??CAEF??QZ?@A@??AB?@QZ??GNEAECCFQKECAAECIL??CBCA",
     "start_platform_amenity_id": "308c93c4-6010-4991-85d0-307ce7c2cca3",
     "end_platform_amenity_id": "971e98c9-2fc6-4a6c-b8ba-53f6ce58bb32"
   },
   {
     "station_code": "HOK",
-    "walk_time_minutes": 3.798078479905562,
-    "walk_distance_metres": 227.88470879433368,
-    "google_polyline": "uo_gCoqwwTAA?@CFEFCD?@ECAA??EH?@S\\?@GLB@??NHCDEJEC?@??@@??A@CHA@CDADFD\\RJF@EECKGBGBGJUNYBEGCIGCAA?GGHUCA",
+    "walk_time_minutes": 0.24361394556597513,
+    "walk_distance_metres": 14.616836733958506,
+    "google_polyline": "uo_gCoqwwTAA@ACAAAA?CA?AEA?@A?",
+    "start_platform_amenity_id": "61783574-a146-4e4f-a506-b6f3412641ec",
+    "end_platform_amenity_id": "308c93c4-6010-4991-85d0-307ce7c2cca3"
+  },
+  {
+    "station_code": "HOK",
+    "walk_time_minutes": 4.466008322985985,
+    "walk_distance_metres": 267.96049937915916,
+    "google_polyline": "uo_gCoqwwTAA@ACAAAA?CA?ADI??N]??FMBB??B@DB@@HQ@C??@AFGBG@C@A?AFB??~@h@BB??DB??ABW@IECC??CAEF??QZ?@A@??AB?@QZ??GNEAECCFQKECAAECIL??CBCA",
     "start_platform_amenity_id": "61783574-a146-4e4f-a506-b6f3412641ec",
     "end_platform_amenity_id": "971e98c9-2fc6-4a6c-b8ba-53f6ce58bb32"
   },
@@ -136,46 +152,6 @@
     "end_platform_amenity_id": "61783574-a146-4e4f-a506-b6f3412641ec"
   },
   {
-    "station_code": "SUN",
-    "walk_time_minutes": 2.1975775182082224,
-    "walk_distance_metres": 131.85465109249338,
-    "google_polyline": "}uhgC_g~vT?AA@@BC@EE??WW??EEVYJMDGDDA@@??@TT@?TREFEEEEEECD@@",
-    "start_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9",
-    "end_platform_amenity_id": "dbc7b9ad-9a5a-46db-a0d9-407e4d620e8a"
-  },
-  {
-    "station_code": "SUN",
-    "walk_time_minutes": 2.3353639933013546,
-    "walk_distance_metres": 140.1218395980813,
-    "google_polyline": "auhgC{g~vTAABEDDDDDDDG@AY[A?OQ??C@EEEFKLWXABDF@?NP@?HH@CBAAC@A?@",
-    "start_platform_amenity_id": "dbc7b9ad-9a5a-46db-a0d9-407e4d620e8a",
-    "end_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9"
-  },
-  {
-    "station_code": "SUN",
-    "walk_time_minutes": 2.127477585906318,
-    "walk_distance_metres": 127.64865515437909,
-    "google_polyline": "mthgCoh~vT??CCKKKK?AEE??II?ACDACA?AA??????@@@??@CBBBBB?@EFKLWXABDF@?NP@?HH@CBAAC@A?@",
-    "start_platform_amenity_id": "fa281e18-c40f-468b-9410-deae2f891f93",
-    "end_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9"
-  },
-  {
-    "station_code": "HOK",
-    "walk_time_minutes": 0.2436139455659751,
-    "walk_distance_metres": 14.61683673395851,
-    "google_polyline": "ip_gC{qwwT@??AD@?@B@@?@@B@A@@@",
-    "start_platform_amenity_id": "308c93c4-6010-4991-85d0-307ce7c2cca3",
-    "end_platform_amenity_id": "61783574-a146-4e4f-a506-b6f3412641ec"
-  },
-  {
-    "station_code": "SUN",
-    "walk_time_minutes": 0.6823809810908334,
-    "walk_distance_metres": 40.942858865450006,
-    "google_polyline": "auhgC{g~vTAABEDDDDDDDG@ADEKKAA??",
-    "start_platform_amenity_id": "dbc7b9ad-9a5a-46db-a0d9-407e4d620e8a",
-    "end_platform_amenity_id": "fa281e18-c40f-468b-9410-deae2f891f93"
-  },
-  {
     "station_code": "HOK",
     "walk_time_minutes": 3.865083764420867,
     "walk_distance_metres": 231.9050258652519,
@@ -185,19 +161,43 @@
   },
   {
     "station_code": "SUN",
-    "walk_time_minutes": 2.033682415801447,
-    "walk_distance_metres": 122.0209449480868,
-    "google_polyline": "}uhgC_g~vT?AA@@BC@EE??WW??EEVYJMDG?ACCCCBC?AA?AA??????@@@?@BBE?@HH??DD?@JJJJBB??",
+    "walk_time_minutes": 2.1975775182082224,
+    "walk_distance_metres": 131.85465109249338,
+    "google_polyline": "}uhgC_g~vT?AA@@BC@EE??WW??EEVYJMDGDDA@@??@TT@?TREFEEEEEECD@@",
+    "start_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9",
+    "end_platform_amenity_id": "dbc7b9ad-9a5a-46db-a0d9-407e4d620e8a"
+  },
+  {
+    "station_code": "SUN",
+    "walk_time_minutes": 2.089615707264788,
+    "walk_distance_metres": 125.37694243588726,
+    "google_polyline": "}uhgC_g~vT?AA@@BC@EE??WW??EEVYJMDGDDA@@??@TT@?TR@ADEKKAA??",
     "start_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9",
     "end_platform_amenity_id": "fa281e18-c40f-468b-9410-deae2f891f93"
   },
   {
-    "station_code": "HOK",
-    "walk_time_minutes": 0.24361394556597513,
-    "walk_distance_metres": 14.616836733958506,
-    "google_polyline": "uo_gCoqwwTAA@ACAAAA?CA?AEA?@A?",
-    "start_platform_amenity_id": "61783574-a146-4e4f-a506-b6f3412641ec",
-    "end_platform_amenity_id": "308c93c4-6010-4991-85d0-307ce7c2cca3"
+    "station_code": "SUN",
+    "walk_time_minutes": 2.5721744412968324,
+    "walk_distance_metres": 154.33046647780992,
+    "google_polyline": "auhgC{g~vTAABEDDDDDDDGRT??VT???@@ADFCBORQVEE??WU???EA???GACECGAAACEC??GEACAC@A?@",
+    "start_platform_amenity_id": "dbc7b9ad-9a5a-46db-a0d9-407e4d620e8a",
+    "end_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9"
+  },
+  {
+    "station_code": "SUN",
+    "walk_time_minutes": 2.464212630353397,
+    "walk_distance_metres": 147.8527578212038,
+    "google_polyline": "mthgCoh~vT??@@JJEDA@RT??VT???@@ADFCBORQVEE??WU???EA???GACECGAAACEC??GEACAC@A?@",
+    "start_platform_amenity_id": "fa281e18-c40f-468b-9410-deae2f891f93",
+    "end_platform_amenity_id": "e28a856a-c07a-40d8-a498-6428f11744d9"
+  },
+  {
+    "station_code": "SUN",
+    "walk_time_minutes": 0.6823809810908334,
+    "walk_distance_metres": 40.942858865450006,
+    "google_polyline": "auhgC{g~vTAABEDDDDDDDG@ADEKKAA??",
+    "start_platform_amenity_id": "dbc7b9ad-9a5a-46db-a0d9-407e4d620e8a",
+    "end_platform_amenity_id": "fa281e18-c40f-468b-9410-deae2f891f93"
   },
   {
     "station_code": "SUN",
@@ -210,32 +210,32 @@
   {
     "station_code": "LOW",
     "walk_time_minutes": 0.5790846330119898,
-    "walk_distance_metres": 34.74507798071938,
-    "google_polyline": "c~nhCqvnwTACJAAI?A?A?A?G?EAGC?A??E",
-    "start_platform_amenity_id": "3880331f-9f2a-4226-b003-c0627a2e95eb",
-    "end_platform_amenity_id": "7ba7a500-8030-4308-ac3d-548681a9c5de"
-  },
-  {
-    "station_code": "LOW",
-    "walk_time_minutes": 0.5790846330119898,
     "walk_distance_metres": 34.74507798071939,
     "google_polyline": "c~nhCcxnwT?D@?B?@F?D?F?@?@?@@HK@@B",
     "start_platform_amenity_id": "7ba7a500-8030-4308-ac3d-548681a9c5de",
     "end_platform_amenity_id": "3880331f-9f2a-4226-b003-c0627a2e95eb"
   },
   {
+    "station_code": "LOW",
+    "walk_time_minutes": 0.5790846330119898,
+    "walk_distance_metres": 34.74507798071938,
+    "google_polyline": "c~nhCqvnwTACJAAI?A?A?A?G?EAGC?A??E",
+    "start_platform_amenity_id": "3880331f-9f2a-4226-b003-c0627a2e95eb",
+    "end_platform_amenity_id": "7ba7a500-8030-4308-ac3d-548681a9c5de"
+  },
+  {
     "station_code": "SHS",
-    "walk_time_minutes": 2.15886822394881,
-    "walk_distance_metres": 129.53209343692856,
-    "google_polyline": "{xihC_rqwT??BCDG@AFIII@A??NQ?A@???BA@C@?HHFFJL@?@@@B??CBAB??OPA@?@AAGGC@MNABGFABCC",
+    "walk_time_minutes": 2.2716012780399337,
+    "walk_distance_metres": 136.296076682396,
+    "google_polyline": "{xihC_rqwT??BCDG@AFILO@AFIGEAC@???AAA?????@??@@?@?HHFFJL@?@@@B??????@@??????AA??IIA@?@EDOP?@C@MNABGFABCC",
     "start_platform_amenity_id": "0ca1c8a1-f631-41bf-b2ab-6630e64a4d82",
     "end_platform_amenity_id": "4d17718d-35ef-4a97-8e74-da2f1d0d2289"
   },
   {
     "station_code": "SHS",
-    "walk_time_minutes": 2.1588682239488093,
-    "walk_distance_metres": 129.5320934369286,
-    "google_polyline": "uxihCeqqwTBB@CFG@CLOBAFF@@?A@ANQ??@CBC??ACAAA?KMGGIIA?ABC@??A??@OP??A@HHGHA@EFCB??",
+    "walk_time_minutes": 2.2716012780399337,
+    "walk_distance_metres": 136.29607668239606,
+    "google_polyline": "uxihCeqqwTBB@CFG@CLOBA?ANQDE?A@AHH??@@??????AA??????ACAAA?KMGGIIA?A??AA?????@?@@??A?@BFDGHA@MNGHA@EFCB??",
     "start_platform_amenity_id": "4d17718d-35ef-4a97-8e74-da2f1d0d2289",
     "end_platform_amenity_id": "0ca1c8a1-f631-41bf-b2ab-6630e64a4d82"
   },
@@ -249,9 +249,9 @@
   },
   {
     "station_code": "FAN",
-    "walk_time_minutes": 1.4647889061860038,
-    "walk_distance_metres": 87.88733437116025,
-    "google_polyline": "q~ghCkuswT@?A@IJGFCBHH??@@??AA??CADGEEEE?@C@CCAAACAACAA@AA??AA??????@@??DDBCFGFK@??@@A",
+    "walk_time_minutes": 1.6965637022360507,
+    "walk_distance_metres": 101.79382213416307,
+    "google_polyline": "q~ghCkuswT@?HKBB@@??@@CBA@SV??A@AAEEEE?@C@CCAAACAACABE?A@?RW?A?A@?@?@???BBKL?@@A",
     "start_platform_amenity_id": "6433c7d6-7462-4866-b0f9-c8437f880339",
     "end_platform_amenity_id": "222434ec-daa7-4b34-bf8a-3e6c4590a7cc"
   },
@@ -289,14 +289,6 @@
   },
   {
     "station_code": "TAP",
-    "walk_time_minutes": 1.8298189535643545,
-    "walk_distance_metres": 109.7891372138613,
-    "google_polyline": "gv~gC{|ywT????Al@C??@A\\???BFJL??K@A?G??@W??B?@i@@?",
-    "start_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7",
-    "end_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8"
-  },
-  {
-    "station_code": "TAP",
     "walk_time_minutes": 0,
     "walk_distance_metres": 0,
     "google_polyline": "gv~gC{|ywT??",
@@ -321,17 +313,25 @@
   },
   {
     "station_code": "TAP",
-    "walk_time_minutes": 1.8782667075511983,
-    "walk_distance_metres": 112.69600245307193,
-    "google_polyline": "mu~gCu|ywTA?Ah@C???AV???FA@?JM?GKCC?G??@U?AB?B?@m@????",
+    "walk_time_minutes": 1.8298189535643545,
+    "walk_distance_metres": 109.7891372138613,
+    "google_polyline": "gv~gC{|ywT????Al@C??@A\\???BFJL??K@A?G??@W??B?@i@@?",
+    "start_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7",
+    "end_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8"
+  },
+  {
+    "station_code": "TAP",
+    "walk_time_minutes": 2.8232175778241224,
+    "walk_distance_metres": 169.3930546694473,
+    "google_polyline": "mu~gCu|ywTA?Ah@C?C???A^??@@?JM??B?BIH?B?@A\\??B?@U?G@S?U?G@U@m@????",
     "start_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8",
     "end_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7"
   },
   {
     "station_code": "TAP",
-    "walk_time_minutes": 1.8782667075511983,
-    "walk_distance_metres": 112.69600245307193,
-    "google_polyline": "mu~gCu|ywTA?Ah@C???AV???FA@?JM?GKCC?G??@U?AB?B?@m@????",
+    "walk_time_minutes": 2.8232175778241224,
+    "walk_distance_metres": 169.3930546694473,
+    "google_polyline": "mu~gCu|ywTA?Ah@C?C???A^??@@?JM??B?BIH?B?@A\\??B?@U?G@S?U?G@U@m@????",
     "start_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8",
     "end_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7"
   },
@@ -345,9 +345,17 @@
   },
   {
     "station_code": "TAP",
-    "walk_time_minutes": 1.8782667075511983,
-    "walk_distance_metres": 112.69600245307193,
-    "google_polyline": "mu~gCu|ywTA?Ah@C???AV???FA@?JM?GKCC?G??@U?AB?B?@m@????",
+    "walk_time_minutes": 2.8232175778241224,
+    "walk_distance_metres": 169.3930546694473,
+    "google_polyline": "mu~gCu|ywTA?Ah@C?C???A^??@@?JM??B?BIH?B?@A\\??B?@U?G@S?U?G@U@m@????",
+    "start_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8",
+    "end_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7"
+  },
+  {
+    "station_code": "TAP",
+    "walk_time_minutes": 2.8232175778241224,
+    "walk_distance_metres": 169.3930546694473,
+    "google_polyline": "mu~gCu|ywTA?Ah@C?C???A^??@@?JM??B?BIH?B?@A\\??B?@U?G@S?U?G@U@m@????",
     "start_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8",
     "end_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7"
   },
@@ -358,14 +366,6 @@
     "google_polyline": "mu~gCu|ywT??",
     "start_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8",
     "end_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8"
-  },
-  {
-    "station_code": "TAP",
-    "walk_time_minutes": 1.8782667075511983,
-    "walk_distance_metres": 112.69600245307193,
-    "google_polyline": "mu~gCu|ywTA?Ah@C???AV???FA@?JM?GKCC?G??@U?AB?B?@m@????",
-    "start_platform_amenity_id": "e1125a66-f893-49ae-827f-e48565f07ac8",
-    "end_platform_amenity_id": "3d947495-8b0f-4b00-b974-626396527dc7"
   },
   {
     "station_code": "UNI",
@@ -385,27 +385,19 @@
   },
   {
     "station_code": "FOT",
-    "walk_time_minutes": 1.7582105511793011,
-    "walk_distance_metres": 105.49263307075806,
-    "google_polyline": "{cugCqj_xT??@?FD`@R@CB@??ZP?@B?BG??BG@AAAA?[Q?AA?@EUM??",
+    "walk_time_minutes": 2.1623340209261976,
+    "walk_distance_metres": 129.74004125557187,
+    "google_polyline": "{cugCqj_xT??YQ@CDB??^R@@@??@@?@@DIFB@@DB@@??FBLF?@DIIE?A_@Q??GE@CJD??",
     "start_platform_amenity_id": "2da36bfe-a919-4b3c-aaac-d38800231476",
     "end_platform_amenity_id": "daedfa4d-9947-417f-99de-90e336dce3f1"
   },
   {
     "station_code": "FOT",
-    "walk_time_minutes": 1.7615509133209406,
-    "walk_distance_metres": 105.69305479925642,
-    "google_polyline": "{cugCqj_xT??@?FD`@R@CB@??ZP?@B?BG??BG@AAAA?[Q?AA?CBUM??",
+    "walk_time_minutes": 2.155292472221167,
+    "walk_distance_metres": 129.31754833327005,
+    "google_polyline": "{cugCqj_xT??YQ@CDB??^R@@@??@@?@@DIFB@@DB@@??FBLF?@DIIE?A_@Q??GEA?ABJF??",
     "start_platform_amenity_id": "2da36bfe-a919-4b3c-aaac-d38800231476",
     "end_platform_amenity_id": "ad68871c-3b3c-4962-b5ec-4266d85e2856"
-  },
-  {
-    "station_code": "FOT",
-    "walk_time_minutes": 1.7576276511012,
-    "walk_distance_metres": 105.45765906607197,
-    "google_polyline": "ubugCak_xT??TLAD@??@ZP@?@@A@CFQKEFGEA?]Q?AIC??ABGEA???",
-    "start_platform_amenity_id": "daedfa4d-9947-417f-99de-90e336dce3f1",
-    "end_platform_amenity_id": "2da36bfe-a919-4b3c-aaac-d38800231476"
   },
   {
     "station_code": "FOT",
@@ -417,6 +409,14 @@
   },
   {
     "station_code": "FOT",
+    "walk_time_minutes": 2.374605687380436,
+    "walk_distance_metres": 142.47634124282627,
+    "google_polyline": "ubugCak_xT??KEIE[QABDB??`@T??@?@@??B@CDAB????FB@@DB@@??FBLF?@EFGEA?]Q?AIC??ABGEA???",
+    "start_platform_amenity_id": "daedfa4d-9947-417f-99de-90e336dce3f1",
+    "end_platform_amenity_id": "2da36bfe-a919-4b3c-aaac-d38800231476"
+  },
+  {
+    "station_code": "FOT",
     "walk_time_minutes": 0.3514079873451342,
     "walk_distance_metres": 21.084479240708053,
     "google_polyline": "ubugCak_xT??KEABA?ABJF??",
@@ -425,19 +425,11 @@
   },
   {
     "station_code": "FOT",
-    "walk_time_minutes": 1.7617429167495338,
-    "walk_distance_metres": 105.70457500497203,
-    "google_polyline": "ubugCak_xT??TLAD@??@ZP@?@@A@CFQKEFGEA?]Q?AICBEIC?A??",
+    "walk_time_minutes": 2.37872095302877,
+    "walk_distance_metres": 142.7232571817263,
+    "google_polyline": "ubugCak_xT??KEIE[QABDB??`@T??@?@@??B@CDAB????FB@@DB@@??FBLF?@EFGEA?]Q?AICBEIC?A??",
     "start_platform_amenity_id": "daedfa4d-9947-417f-99de-90e336dce3f1",
     "end_platform_amenity_id": "69b63886-70ce-48cd-9b58-107953c33173"
-  },
-  {
-    "station_code": "FOT",
-    "walk_time_minutes": 1.7609680132428396,
-    "walk_distance_metres": 105.65808079457035,
-    "google_polyline": "{bugCwj_xT??TLBC@??@ZP@?@@A@CFQKEFGEA?]Q?AIC??ABGEA???",
-    "start_platform_amenity_id": "ad68871c-3b3c-4962-b5ec-4266d85e2856",
-    "end_platform_amenity_id": "2da36bfe-a919-4b3c-aaac-d38800231476"
   },
   {
     "station_code": "FOT",
@@ -449,19 +441,19 @@
   },
   {
     "station_code": "FOT",
-    "walk_time_minutes": 1.7650832788911734,
-    "walk_distance_metres": 105.90499673347041,
-    "google_polyline": "{bugCwj_xT??TLBC@??@ZP@?@@A@CFQKEFGEA?]Q?AICBEIC?A??",
+    "walk_time_minutes": 2.3702441955182763,
+    "walk_distance_metres": 142.2146517310967,
+    "google_polyline": "{bugCwj_xT??KGGEECUK@EDB??`@T??@?@@??B@CDAB????FB@@DB@@??FBLF?@EFGEA?]Q?AIC??ABGEA???",
     "start_platform_amenity_id": "ad68871c-3b3c-4962-b5ec-4266d85e2856",
-    "end_platform_amenity_id": "69b63886-70ce-48cd-9b58-107953c33173"
+    "end_platform_amenity_id": "2da36bfe-a919-4b3c-aaac-d38800231476"
   },
   {
     "station_code": "FOT",
-    "walk_time_minutes": 1.7625399811022924,
-    "walk_distance_metres": 105.75239886613753,
-    "google_polyline": "ucugC{j_xT???@HB^TABB@??ZP?@B?BG??BG@AAAA?[Q?AA?@EUM??",
-    "start_platform_amenity_id": "69b63886-70ce-48cd-9b58-107953c33173",
-    "end_platform_amenity_id": "daedfa4d-9947-417f-99de-90e336dce3f1"
+    "walk_time_minutes": 2.3743594611666103,
+    "walk_distance_metres": 142.46156766999673,
+    "google_polyline": "{bugCwj_xT??KGGEECUK@EDB??`@T??@?@@??B@CDAB????FB@@DB@@??FBLF?@EFGEA?]Q?AICBEIC?A??",
+    "start_platform_amenity_id": "ad68871c-3b3c-4962-b5ec-4266d85e2856",
+    "end_platform_amenity_id": "69b63886-70ce-48cd-9b58-107953c33173"
   },
   {
     "station_code": "FOT",
@@ -473,19 +465,19 @@
   },
   {
     "station_code": "FOT",
-    "walk_time_minutes": 1.7658803432439318,
-    "walk_distance_metres": 105.95282059463588,
-    "google_polyline": "ucugC{j_xT???@HB^TABB@??ZP?@B?BG??BG@AAAA?[Q?AA?CBUM??",
+    "walk_time_minutes": 2.1850787177753004,
+    "walk_distance_metres": 131.104723066518,
+    "google_polyline": "ucugC{j_xT???@EEUKABDB??^R@@@??@@?@@DIFB@@DB@@??FBLF?@DIIE?A_@Q??GE@CJD??",
     "start_platform_amenity_id": "69b63886-70ce-48cd-9b58-107953c33173",
-    "end_platform_amenity_id": "ad68871c-3b3c-4962-b5ec-4266d85e2856"
+    "end_platform_amenity_id": "daedfa4d-9947-417f-99de-90e336dce3f1"
   },
   {
-    "station_code": "SHT",
-    "walk_time_minutes": 0.5152464350321422,
-    "walk_distance_metres": 30.914786101928534,
-    "google_polyline": "iqrgCcf}wT???AMI@E@A@ENJ@?AA",
-    "start_platform_amenity_id": "9559a6f0-b2bf-4c06-887c-c13638132186",
-    "end_platform_amenity_id": "a1800871-fe01-4dd8-b106-73400bc9727f"
+    "station_code": "FOT",
+    "walk_time_minutes": 2.178037169070269,
+    "walk_distance_metres": 130.6822301442162,
+    "google_polyline": "ucugC{j_xT???@EEUKABDB??^R@@@??@@?@@DIFB@@DB@@??FBLF?@DIIE?A_@Q??GEA?ABJF??",
+    "start_platform_amenity_id": "69b63886-70ce-48cd-9b58-107953c33173",
+    "end_platform_amenity_id": "ad68871c-3b3c-4962-b5ec-4266d85e2856"
   },
   {
     "station_code": "SHT",
@@ -494,6 +486,14 @@
     "google_polyline": "iqrgCcf}wT???AMIOK@A???A???@??EHGJA@??A@??????@A??BELHCFCDNJ@???",
     "start_platform_amenity_id": "9559a6f0-b2bf-4c06-887c-c13638132186",
     "end_platform_amenity_id": "74804139-4439-4d59-bbbc-a6c8cf872f41"
+  },
+  {
+    "station_code": "SHT",
+    "walk_time_minutes": 0.5152464350321422,
+    "walk_distance_metres": 30.914786101928534,
+    "google_polyline": "iqrgCcf}wT???AMI@E@A@ENJ@?AA",
+    "start_platform_amenity_id": "9559a6f0-b2bf-4c06-887c-c13638132186",
+    "end_platform_amenity_id": "a1800871-fe01-4dd8-b106-73400bc9727f"
   },
   {
     "station_code": "SHT",
@@ -513,19 +513,19 @@
   },
   {
     "station_code": "SHT",
-    "walk_time_minutes": 0.5372802911640657,
-    "walk_distance_metres": 32.23681746984395,
-    "google_polyline": "yqrgCge}wT??A?OKBEBGNJ@@@?",
-    "start_platform_amenity_id": "74804139-4439-4d59-bbbc-a6c8cf872f41",
-    "end_platform_amenity_id": "cc3dd6be-5c74-44c7-b799-4d20c53b8502"
-  },
-  {
-    "station_code": "SHT",
     "walk_time_minutes": 1.4277603141297746,
     "walk_distance_metres": 85.66561884778645,
     "google_polyline": "yqrgCge}wT??A?OKBEBGMICD??A@??????@A??@AFKDI???A???@??A@NJ@E@A@ENJ@?AA",
     "start_platform_amenity_id": "74804139-4439-4d59-bbbc-a6c8cf872f41",
     "end_platform_amenity_id": "a1800871-fe01-4dd8-b106-73400bc9727f"
+  },
+  {
+    "station_code": "SHT",
+    "walk_time_minutes": 0.5372802911640657,
+    "walk_distance_metres": 32.23681746984395,
+    "google_polyline": "yqrgCge}wT??A?OKBEBGNJ@@@?",
+    "start_platform_amenity_id": "74804139-4439-4d59-bbbc-a6c8cf872f41",
+    "end_platform_amenity_id": "cc3dd6be-5c74-44c7-b799-4d20c53b8502"
   },
   {
     "station_code": "SHT",
@@ -577,14 +577,6 @@
   },
   {
     "station_code": "TAW",
-    "walk_time_minutes": 1.9283203630951309,
-    "walk_distance_metres": 115.69922178570783,
-    "google_polyline": "uvpgCon{wT??@???FFNVBD@@@@RTFEHGCE??MSCCBS@AFGEKAACECGDA??",
-    "start_platform_amenity_id": "3f2b1086-7301-462b-b151-2c58a44938ac",
-    "end_platform_amenity_id": "53c945c2-753c-4323-a0c4-da3eeafff925"
-  },
-  {
-    "station_code": "TAW",
     "walk_time_minutes": 1.4165621954287557,
     "walk_distance_metres": 84.99373172572537,
     "google_polyline": "uvpgCon{wT??@???FFNVBDBA??@A??A?EDCGC@GDCBDFC@A@??????@A??BACCMSACAC@?",
@@ -593,19 +585,19 @@
   },
   {
     "station_code": "TAW",
-    "walk_time_minutes": 2.98407697081213,
-    "walk_distance_metres": 179.04461824872774,
-    "google_polyline": "uvpgCon{wT??@???FFNVBDBA??@A??A?EDCGBEWa@?AFCJKBCPI@?HGJE?ABACEEKBA??CG?AAA????AC??EIGD@DBDBDFLBD@B@@CB??",
+    "walk_time_minutes": 1.9283203630951309,
+    "walk_distance_metres": 115.69922178570783,
+    "google_polyline": "uvpgCon{wT??@???FFNVBD@@@@RTFEHGCE??MSCCBS@AFGEKAACECGDA??",
     "start_platform_amenity_id": "3f2b1086-7301-462b-b151-2c58a44938ac",
-    "end_platform_amenity_id": "41f478f3-7dcd-43ca-bb4a-2da8f4608f1b"
+    "end_platform_amenity_id": "53c945c2-753c-4323-a0c4-da3eeafff925"
   },
   {
     "station_code": "TAW",
-    "walk_time_minutes": 2.3563074538530504,
-    "walk_distance_metres": 141.378447231183,
-    "google_polyline": "{vpgC{m{wTA?@BKHIO??W_@?AAA@??AHEBCFEBCHGVKHELT??BB????@B??BFFJFEAACECGDA??",
-    "start_platform_amenity_id": "4ee27432-5ed9-4d08-bb3e-ae80220f9d15",
-    "end_platform_amenity_id": "53c945c2-753c-4323-a0c4-da3eeafff925"
+    "walk_time_minutes": 3.0523440123664782,
+    "walk_distance_metres": 183.14064074198868,
+    "google_polyline": "uvpgCon{wT??@?e@u@@CBADF?@RZ??FJFCJKBCPI@?HGJE?ABACEEKBA??CG?AAA????AC??EIGD@DBDBDFLBD@B@@CB??",
+    "start_platform_amenity_id": "3f2b1086-7301-462b-b151-2c58a44938ac",
+    "end_platform_amenity_id": "41f478f3-7dcd-43ca-bb4a-2da8f4608f1b"
   },
   {
     "station_code": "TAW",
@@ -614,6 +606,14 @@
     "google_polyline": "{vpgC{m{wTA?@B@BLRBBC@??A@??????@ABAEGBCFEBABFDE@???A@??C@CEOWGG??A???",
     "start_platform_amenity_id": "4ee27432-5ed9-4d08-bb3e-ae80220f9d15",
     "end_platform_amenity_id": "3f2b1086-7301-462b-b151-2c58a44938ac"
+  },
+  {
+    "station_code": "TAW",
+    "walk_time_minutes": 2.3563074538530504,
+    "walk_distance_metres": 141.378447231183,
+    "google_polyline": "{vpgC{m{wTA?@BKHIO??W_@?AAA@??AHEBCFEBCHGVKHELT??BB????@B??BFFJFEAACECGDA??",
+    "start_platform_amenity_id": "4ee27432-5ed9-4d08-bb3e-ae80220f9d15",
+    "end_platform_amenity_id": "53c945c2-753c-4323-a0c4-da3eeafff925"
   },
   {
     "station_code": "TAW",
@@ -633,6 +633,14 @@
   },
   {
     "station_code": "TAW",
+    "walk_time_minutes": 2.262518802830644,
+    "walk_distance_metres": 135.75112816983867,
+    "google_polyline": "_upgCwo{wT??E@BFBD@@GDGKCG??AC????CC??MUBCFC?ADA??DE??FCLJBA??CG?AAA????AC??EIGD@DBDBDFLBD@B@@CB??",
+    "start_platform_amenity_id": "53c945c2-753c-4323-a0c4-da3eeafff925",
+    "end_platform_amenity_id": "41f478f3-7dcd-43ca-bb4a-2da8f4608f1b"
+  },
+  {
+    "station_code": "TAW",
     "walk_time_minutes": 2.462638236455646,
     "walk_distance_metres": 147.75829418733875,
     "google_polyline": "_upgCwo{wT??E@BFBD@@DJGFA@CRBBLR??BDIFGDSUAAAABA??@A??A?EDCGC@GDCBDFC@A@??????@A??BACCMSACAC@?",
@@ -641,19 +649,11 @@
   },
   {
     "station_code": "TAW",
-    "walk_time_minutes": 2.9840769708121297,
-    "walk_distance_metres": 179.04461824872772,
-    "google_polyline": "qtpgCap{wT??BCAAACCEGMCECEAEFEDH??@B????@@?@BF??C@DJBDC@?@KDIFA?QHCBKJGB?@V`@CDBFDE@???A@??C@CEOWGG??A???",
+    "walk_time_minutes": 3.053321681534506,
+    "walk_distance_metres": 183.1993008920703,
+    "google_polyline": "qtpgCap{wT??BCAAACCEGMCECEAEFEDH??@B????@@?@BF??C@DJBDC@?@KDIFA?QHCBKJGB?@A?GI?AU[?AEGABd@t@A???",
     "start_platform_amenity_id": "41f478f3-7dcd-43ca-bb4a-2da8f4608f1b",
     "end_platform_amenity_id": "3f2b1086-7301-462b-b151-2c58a44938ac"
-  },
-  {
-    "station_code": "TAW",
-    "walk_time_minutes": 2.262518802830644,
-    "walk_distance_metres": 135.75112816983867,
-    "google_polyline": "_upgCwo{wT??E@BFBD@@GDGKCG??AC????CC??MUBCFC?ADA??DE??FCLJBA??CG?AAA????AC??EIGD@DBDBDFLBD@B@@CB??",
-    "start_platform_amenity_id": "53c945c2-753c-4323-a0c4-da3eeafff925",
-    "end_platform_amenity_id": "41f478f3-7dcd-43ca-bb4a-2da8f4608f1b"
   },
   {
     "station_code": "TAW",
@@ -713,19 +713,19 @@
   },
   {
     "station_code": "MKK",
-    "walk_time_minutes": 1.3067910828590477,
-    "walk_distance_metres": 78.40746497154285,
-    "google_polyline": "{xfgCiizwT?@^??FC???A???@???B??A@G?G?A?E?E?A?C?AC???AA??@@??@??F]A?@",
-    "start_platform_amenity_id": "223c2a0f-484a-40c0-b325-41725b45261f",
-    "end_platform_amenity_id": "e88086dc-89cd-4fd0-80a6-ede3672b688a"
-  },
-  {
-    "station_code": "MKK",
     "walk_time_minutes": 1.3943821568616832,
     "walk_distance_metres": 83.66292941170099,
     "google_polyline": "yxfgC_jzwT?A\\@?GA???AA??@@??B??@?B?@?D?D?@?FAF?@C???A???@???B??G_@??H",
     "start_platform_amenity_id": "e88086dc-89cd-4fd0-80a6-ede3672b688a",
     "end_platform_amenity_id": "60374160-233b-403d-bace-0c22a42dc672"
+  },
+  {
+    "station_code": "MKK",
+    "walk_time_minutes": 1.3067910828590477,
+    "walk_distance_metres": 78.40746497154285,
+    "google_polyline": "{xfgCiizwT?@^??FC???A???@???B??A@G?G?A?E?E?A?C?AC???AA??@@??@??F]A?@",
+    "start_platform_amenity_id": "223c2a0f-484a-40c0-b325-41725b45261f",
+    "end_platform_amenity_id": "e88086dc-89cd-4fd0-80a6-ede3672b688a"
   },
   {
     "station_code": "MKK",
@@ -753,6 +753,14 @@
   },
   {
     "station_code": "HUH",
+    "walk_time_minutes": 1.3270477687056648,
+    "walk_distance_metres": 79.62286612233986,
+    "google_polyline": "y`cgCkf|wT?BECI?QAC?ADH@??t@D@?F?ALD@@???",
+    "start_platform_amenity_id": "4aae041e-7112-4ffb-a8aa-50c085186c53",
+    "end_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c"
+  },
+  {
+    "station_code": "HUH",
     "walk_time_minutes": 0.207438574580757,
     "walk_distance_metres": 12.446314474845419,
     "google_polyline": "}`cgCue|wT??@?@G?I?C",
@@ -761,19 +769,19 @@
   },
   {
     "station_code": "HUH",
-    "walk_time_minutes": 1.2355296478906057,
-    "walk_distance_metres": 74.13177887343633,
-    "google_polyline": "y`cgCkf|wT?B??F?@?D@J?F@B?DDJ?B@?EG?A?A??A??C???E?@CGA?HALD@@???",
-    "start_platform_amenity_id": "4aae041e-7112-4ffb-a8aa-50c085186c53",
-    "end_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c"
+    "walk_time_minutes": 1.620067104758165,
+    "walk_distance_metres": 97.20402628548987,
+    "google_polyline": "}`cgCue|wT??C?GASAC??C?A?GH@??t@D@?F??IF@D?D?N@D??A",
+    "start_platform_amenity_id": "877d8490-2e51-40c6-b602-7596ab0e5305",
+    "end_platform_amenity_id": "d866291d-9234-4e73-b9d3-e163df0aa220"
   },
   {
     "station_code": "HUH",
-    "walk_time_minutes": 1.3267778227893448,
-    "walk_distance_metres": 79.60666936736067,
-    "google_polyline": "}`cgCue|wT??@?@?F@F???H@F?F?F@F??C?C?EB@?EG?A?A??A??C???E?@CD?D?N@D??A",
+    "walk_time_minutes": 1.3363315471941122,
+    "walk_distance_metres": 80.17989283164671,
+    "google_polyline": "}`cgCue|wT??C?GASAC??C?A?GH@??t@D@?F?ALD@@???",
     "start_platform_amenity_id": "877d8490-2e51-40c6-b602-7596ab0e5305",
-    "end_platform_amenity_id": "d866291d-9234-4e73-b9d3-e163df0aa220"
+    "end_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c"
   },
   {
     "station_code": "HUH",
@@ -785,19 +793,19 @@
   },
   {
     "station_code": "HUH",
-    "walk_time_minutes": 1.3273369705932523,
-    "walk_distance_metres": 79.64021823559511,
-    "google_polyline": "}`cgCue|wT??@?@?F@F???H@F?F?F@F??C?C?EB@?EG?A?A??A??C???E?@CGA?HALD@@???",
-    "start_platform_amenity_id": "877d8490-2e51-40c6-b602-7596ab0e5305",
-    "end_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c"
-  },
-  {
-    "station_code": "HUH",
     "walk_time_minutes": 1.3267778227893445,
     "walk_distance_metres": 79.60666936736068,
     "google_polyline": "m~bgCgf|wT?@E?OAE?E?ABD???B????@@?@?F??DCA?D?B?BG?GAG?G?IA??G?GAA?A???",
     "start_platform_amenity_id": "d866291d-9234-4e73-b9d3-e163df0aa220",
     "end_platform_amenity_id": "877d8490-2e51-40c6-b602-7596ab0e5305"
+  },
+  {
+    "station_code": "HUH",
+    "walk_time_minutes": 0.6822339067006477,
+    "walk_distance_metres": 40.934034402038854,
+    "google_polyline": "m~bgCgf|wT?@E?OAE?E?GA?HALD@@???",
+    "start_platform_amenity_id": "d866291d-9234-4e73-b9d3-e163df0aa220",
+    "end_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c"
   },
   {
     "station_code": "HUH",
@@ -814,14 +822,6 @@
     "google_polyline": "q_cgCoe|wT??A?EA@M?IF@ABD???B????@@?@?F??DCA?D?B?BG?GAG?G?IA??G?GAA?A???",
     "start_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c",
     "end_platform_amenity_id": "877d8490-2e51-40c6-b602-7596ab0e5305"
-  },
-  {
-    "station_code": "HUH",
-    "walk_time_minutes": 0.6822339067006477,
-    "walk_distance_metres": 40.934034402038854,
-    "google_polyline": "m~bgCgf|wT?@E?OAE?E?GA?HALD@@???",
-    "start_platform_amenity_id": "d866291d-9234-4e73-b9d3-e163df0aa220",
-    "end_platform_amenity_id": "f17b4ef6-a1a9-4cb2-99bc-2ea06f28be1c"
   },
   {
     "station_code": "HUH",
@@ -857,9 +857,9 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 1.130651062030044,
-    "walk_distance_metres": 67.83906372180265,
-    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDEDABPP??B@????@@?@JHBC@A@@@A??",
+    "walk_time_minutes": 1.2102215532050533,
+    "walk_distance_metres": 72.61329319230322,
+    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDEDABCBDB??XV??DD@CBC@A@@@A??",
     "start_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df",
     "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
   },
@@ -873,43 +873,35 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.4051006243673965,
-    "walk_distance_metres": 204.3060374620438,
-    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]GHWUOGGVAB@???@@????AA??EAKHEBG?KCC?AF?DGA??EA?@??If@???@KACD?HAF?@?DAH?B?B????",
+    "walk_time_minutes": 3.4467164473169882,
+    "walk_distance_metres": 206.80298683901935,
+    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAF?BG^@??@??If@??C?AHGAEAEAOC?B????",
     "start_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df",
     "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.1304749234129834,
-    "walk_distance_metres": 187.828495404779,
-    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]GHWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLJNHFAHCFAFCFAFCFAD?@A?",
+    "walk_time_minutes": 3.251802050666516,
+    "walk_distance_metres": 195.10812303999106,
+    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAF?BG^@??@??If@??C?AHHB@?F@?@A?",
     "start_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df",
     "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.5111511249658194,
-    "walk_distance_metres": 210.66906749794916,
-    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]GHWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLAACP??Mp@?@B?@@B????A@E?@?@?DAF@?FBCFAF????",
+    "walk_time_minutes": 3.6291949745356455,
+    "walk_distance_metres": 217.7516984721387,
+    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAFMCEP@????@O`A??ABTF@?FBCFAF????",
     "start_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df",
     "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.549699195590115,
-    "walk_distance_metres": 212.98195173540694,
-    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]GHWUOGGVAB@???@@????AA??EAKHEBG?AFAFMCEP@????@O`A??ABA?GA?BAH??AFKA?A",
+    "walk_time_minutes": 3.57177858726283,
+    "walk_distance_metres": 214.30671523576984,
+    "google_polyline": "}e~fC}`ywT??EEEECAIJA@CDa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAFMCEP@????@O`A??ABA?GA?BAH??AFKA?A",
     "start_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df",
     "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 1.1579751211198843,
-    "walk_distance_metres": 69.47850726719307,
-    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABEDEBCPP??B@????@@?@JHBC@A@@@A??",
-    "start_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a",
-    "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
   },
   {
     "station_code": "ADM",
@@ -921,6 +913,14 @@
   },
   {
     "station_code": "ADM",
+    "walk_time_minutes": 1.1583665207945846,
+    "walk_distance_metres": 69.5019912476751,
+    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABEDEDB??XV??DD@CBC@A@@@A??",
+    "start_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a",
+    "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
+  },
+  {
+    "station_code": "ADM",
     "walk_time_minutes": 1.0413544892068327,
     "walk_distance_metres": 62.48126935240995,
     "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABEDEDB??XV??DDA@A@@@",
@@ -929,17 +929,25 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.4221147415231905,
-    "walk_distance_metres": 205.32688449139144,
-    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABE_@_@FGWUOGGVAB@???@@????AA??EAKHEBG?KCC?AF?DGA??EA?@??If@???@KACD?HAF?@?DAH?B?B????",
+    "walk_time_minutes": 3.4416511728000674,
+    "walk_distance_metres": 206.49907036800408,
+    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABE_@_@FGWUOGGVAB@???@@????AA??EAKHEBG?AFAF?BG^@??@??If@??C?AHGAEAEAOC?B????",
     "start_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a",
     "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.1474890405687774,
-    "walk_distance_metres": 188.84934243412664,
-    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABE_@_@FGWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLJNHFAHCFAFCFAFCFAD?@A?",
+    "walk_time_minutes": 3.6241297000187243,
+    "walk_distance_metres": 217.44778200112344,
+    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABE_@_@FGWUOGGVAB@???@@????AA??EAKHEBG?AFAFMCEP@????@O`A??ABTF@?FBCFAF????",
+    "start_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a",
+    "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
+  },
+  {
+    "station_code": "ADM",
+    "walk_time_minutes": 3.246736776149595,
+    "walk_distance_metres": 194.8042065689758,
+    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABE_@_@FGWUOGGVAB@???@@????AA??EAKHEBG?AFAF?BG^@??@??If@??C?AHHB@?F@?@A?",
     "start_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a",
     "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
   },
@@ -961,17 +969,9 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.5281652421216134,
-    "walk_distance_metres": 211.6899145272968,
-    "google_polyline": "mg~fC__ywT?@AAEEEECAJM?ABE_@_@FGWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLAACP??Mp@?@B?@@B????A@E?@?@?DAF@?FBCFAF????",
-    "start_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a",
-    "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 1.1579751211198843,
-    "walk_distance_metres": 69.47850726719305,
-    "google_polyline": "we~fCq_ywT??A@AAA@CBKI?AAA????CA??QQCBEDCD?@KLB@DDDD@@?A",
+    "walk_time_minutes": 1.1582010086838181,
+    "walk_distance_metres": 69.49206052102909,
+    "google_polyline": "we~fCq_ywT??A@AAA@A?CCAAWU??EEABCBEDCD?@KLB@DDDD@@?A",
     "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
     "end_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a"
   },
@@ -985,27 +985,35 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.2157225755437153,
-    "walk_distance_metres": 192.9433545326229,
-    "google_polyline": "we~fCq_ywT??A@AAACEEEEMIAAABA@GG??YWA?A@CEWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLJNHFAHCFAFCFAFCFAD?@A?",
-    "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
-    "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 3.490348276498129,
-    "walk_distance_metres": 209.4208965898877,
-    "google_polyline": "we~fCq_ywT??A@AAACEEEEMIAAABA@GG??YWA?A@CEWUOGGVAB@???@@????AA??EAKHEBG?KCC?AF?DGA??EA?@??If@???@KACD?HAF?@?DAH?B?B????",
+    "walk_time_minutes": 3.6646423880197014,
+    "walk_distance_metres": 219.87854328118212,
+    "google_polyline": "we~fCq_ywT??A@AAA@A?CCAAWU??EEDEa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAF?BG^@??@??If@??C?AHGAEAEAOC?B????",
     "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
     "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.596398777096551,
-    "walk_distance_metres": 215.78392662579304,
-    "google_polyline": "we~fCq_ywT??A@AAACEEEEMIAAABA@GG??YWA?A@CEWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLAACP??Mp@?@B?@@B????A@E?@?@?DAF@?FBCFAF????",
+    "walk_time_minutes": 3.469727991369229,
+    "walk_distance_metres": 208.18367948215382,
+    "google_polyline": "we~fCq_ywT??A@AAA@A?CCAAWU??EEDEa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAF?BG^@??@??If@??C?AHHB@?F@?@A?",
+    "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
+    "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
+  },
+  {
+    "station_code": "ADM",
+    "walk_time_minutes": 3.8471209152383588,
+    "walk_distance_metres": 230.82725491430148,
+    "google_polyline": "we~fCq_ywT??A@AAA@A?CCAAWU??EEDEa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAFMCEP@????@O`A??ABTF@?FBCFAF????",
     "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
     "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
+  },
+  {
+    "station_code": "ADM",
+    "walk_time_minutes": 3.7897045279655432,
+    "walk_distance_metres": 227.3822716779326,
+    "google_polyline": "we~fCq_ywT??A@AAA@A?CCAAWU??EEDEa@]KK?A??YWA?A?A?CBELADERKHEBG?AFAFMCEP@????@O`A??ABA?GA?BAH??AFKA?A",
+    "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
+    "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
   },
   {
     "station_code": "ADM",
@@ -1017,17 +1025,9 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.634946847720847,
-    "walk_distance_metres": 218.09681086325085,
-    "google_polyline": "we~fCq_ywT??A@AAACEEEEMIAAABA@GG??YWA?A@CEWUOGGVAB@???@@????AA??EAKHEBG?AFAFMCEP@????@O`A??ABA?GA?BAH??AFKA?A",
-    "start_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67",
-    "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 1.1209240220562036,
-    "walk_distance_metres": 67.2554413233722,
-    "google_polyline": "ef~fCa_ywTAA@A@A@CKI?AAA????CA??QQCBEDCD?@KLB@DDDD@@?A",
+    "walk_time_minutes": 1.1994992518219687,
+    "walk_distance_metres": 71.96995510931811,
+    "google_polyline": "ef~fCa_ywTAA@A@A@CBCA?CCAAWU??EEABCBEDCD?@KLB@DDDD@@?A",
     "start_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149",
     "end_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a"
   },
@@ -1041,11 +1041,19 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.4056782869310713,
-    "walk_distance_metres": 204.3406972158643,
-    "google_polyline": "ef~fCa_ywTAAAAEEGEKK?ABEGE??YYA?CEWUOGGVAB@???@@????AA??EAKHEBG?KCC?AF?DGA??EA?@??If@???@KACD?HAF?@?DAH?B?B????",
+    "walk_time_minutes": 3.425214718207948,
+    "walk_distance_metres": 205.51288309247693,
+    "google_polyline": "ef~fCa_ywTAAAAEEGEKK?ABEGE??YYA?CEWUOGGVAB@???@@????AA??EAKHEBG?AFAF?BG^@??@??If@??C?AHGAEAEAOC?B????",
     "start_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149",
     "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
+  },
+  {
+    "station_code": "ADM",
+    "walk_time_minutes": 3.230300321557476,
+    "walk_distance_metres": 193.81801929344863,
+    "google_polyline": "ef~fCa_ywTAAAAEEGEKK?ABEGE??YYA?CEWUOGGVAB@???@@????AA??EAKHEBG?AFAF?BG^@??@??If@??C?AHHB@?F@?@A?",
+    "start_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149",
+    "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
   },
   {
     "station_code": "ADM",
@@ -1057,17 +1065,9 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.1310525859766583,
-    "walk_distance_metres": 187.8631551585995,
-    "google_polyline": "ef~fCa_ywTAAAAEEGEKK?ABEGE??YYA?CEWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLJNHFAHCFAFCFAFCFAD?@A?",
-    "start_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149",
-    "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 3.5117287875294942,
-    "walk_distance_metres": 210.70372725176964,
-    "google_polyline": "ef~fCa_ywTAAAAEEGEKK?ABEGE??YYA?CEWUOGGVAB@???@@??????AA??CAIZGAA??@?@OLAACP??Mp@?@B?@@B????A@E?@?@?DAF@?FBCFAF????",
+    "walk_time_minutes": 3.607693245426605,
+    "walk_distance_metres": 216.46159472559629,
+    "google_polyline": "ef~fCa_ywTAAAAEEGEKK?ABEGE??YYA?CEWUOGGVAB@???@@????AA??EAKHEBG?AFAFMCEP@????@O`A??ABTF@?FBCFAF????",
     "start_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149",
     "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
   },
@@ -1081,19 +1081,19 @@
   },
   {
     "station_code": "ADM",
+    "walk_time_minutes": 3.4093580665171515,
+    "walk_distance_metres": 204.56148399102915,
+    "google_polyline": "ul~fC_~xwT?????CNBD@D@F@@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^DEDB??XV??DD@CBC@A@@@A??",
+    "start_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf",
+    "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
+  },
+  {
+    "station_code": "ADM",
     "walk_time_minutes": 3.137278801041518,
     "walk_distance_metres": 188.23672806249115,
     "google_polyline": "ul~fC_~xwT?????CNBD@D@F@@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^CD?@KLB@DDDD@@?A",
     "start_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf",
     "end_platform_amenity_id": "abf9c3a2-29f8-4568-aa9c-789bb995636a"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 3.408966666842451,
-    "walk_distance_metres": 204.5380000105471,
-    "google_polyline": "ul~fC_~xwT?????CNBD@D@F@@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^DEBCPP??B@????@@?@JHBC@A@@@A??",
-    "start_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf",
-    "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
   },
   {
     "station_code": "ADM",
@@ -1105,6 +1105,14 @@
   },
   {
     "station_code": "ADM",
+    "walk_time_minutes": 2.577275176999383,
+    "walk_distance_metres": 154.636510619963,
+    "google_polyline": "ul~fC_~xwT?????CNBD@D@F@@I??Hi@????@?F_@?CMCEP@????@O`A??ABA?GA?BAH??AFKA?A",
+    "start_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf",
+    "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
+  },
+  {
+    "station_code": "ADM",
     "walk_time_minutes": 0.5980123255958043,
     "walk_distance_metres": 35.880739535748255,
     "google_polyline": "ul~fC_~xwT?????CNBD@D@F@HB@?F@?@A?",
@@ -1113,27 +1121,27 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 1.1056225862836997,
-    "walk_distance_metres": 66.33735517702198,
-    "google_polyline": "ul~fC_~xwT?????CNBD@D@F@HBBG?A@GA??F?@CHFBCFAF????",
+    "walk_time_minutes": 2.6346915642721984,
+    "walk_distance_metres": 158.08149385633186,
+    "google_polyline": "ul~fC_~xwT?????CNBD@D@F@@I??Hi@????@?F_@?CMCEP@????@O`A??ABTF@?FBCFAF????",
     "start_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf",
     "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.2140522701919796,
-    "walk_distance_metres": 192.84313621151875,
-    "google_polyline": "_k~fCq}xwT@??AGAA?IC@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^DEBCPP??B@????@@?@JHBC@A@@@A??",
+    "walk_time_minutes": 3.097431638278928,
+    "walk_distance_metres": 185.84589829673567,
+    "google_polyline": "_k~fCq}xwT@??AGAA?IC@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^DEDB??XV??DDA@A@@@",
     "start_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16",
-    "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
+    "end_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 1.3591918509294023,
-    "walk_distance_metres": 81.55151105576412,
-    "google_polyline": "ul~fC_~xwT?????C?C@I?E?A@G?IBEJ@???@?@G^??B@CJ?BAH??AFKA?A",
-    "start_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf",
-    "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
+    "walk_time_minutes": 3.21444366986668,
+    "walk_distance_metres": 192.86662019200077,
+    "google_polyline": "_k~fCq}xwT@??AGAA?IC@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^DEDB??XV??DD@CBC@A@@@A??",
+    "start_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16",
+    "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
   },
   {
     "station_code": "ADM",
@@ -1161,25 +1169,9 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.097431638278928,
-    "walk_distance_metres": 185.84589829673567,
-    "google_polyline": "_k~fCq}xwT@??AGAA?IC@I??Hi@????@?F_@?C@G@GF?DCJIDSDB????ZX????D@^^DEDB??XV??DDA@A@@@",
-    "start_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16",
-    "end_platform_amenity_id": "c7566711-9f15-4964-a278-b57027236149"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 1.1022922026048367,
-    "walk_distance_metres": 66.13753215629022,
-    "google_polyline": "_k~fCq}xwT@??AGAA?BG?A@GA??F?@CHA?UGA?GA?BAH??AFKA?A",
-    "start_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16",
-    "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 0.6964109241877265,
-    "walk_distance_metres": 41.784655451263596,
-    "google_polyline": "_k~fCq}xwT@??AGAA?BG?A@GA??F?@CHFBCFAF????",
+    "walk_time_minutes": 2.439777167621726,
+    "walk_distance_metres": 146.38663005730356,
+    "google_polyline": "_k~fCq}xwT@??AGAA?IC@I??Hi@????@?F_@?CMCEP@????@O`A??ABTF@?FBCFAF????",
     "start_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16",
     "end_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c"
   },
@@ -1193,6 +1185,14 @@
   },
   {
     "station_code": "ADM",
+    "walk_time_minutes": 2.382360780348911,
+    "walk_distance_metres": 142.94164682093466,
+    "google_polyline": "_k~fCq}xwT@??AGAA?IC@I??Hi@????@?F_@?CMCEP@????@O`A??ABA?GA?BAH??AFKA?A",
+    "start_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16",
+    "end_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf"
+  },
+  {
+    "station_code": "ADM",
     "walk_time_minutes": 3.381553787090983,
     "walk_distance_metres": 202.89322722545907,
     "google_polyline": "ek~fC_}xwT????@GBGGCA?UGA??C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@^^CD?@KLB@DDDD@@?A",
@@ -1201,19 +1201,11 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.653241652891916,
-    "walk_distance_metres": 219.19449917351503,
-    "google_polyline": "ek~fC_}xwT????@GBGGCA?UGA??C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@^^DEBCPP??B@????@@?@JHBC@A@@@A??",
+    "walk_time_minutes": 3.6536330525666165,
+    "walk_distance_metres": 219.21798315399707,
+    "google_polyline": "ek~fC_}xwT????@GBGGCA?UGA??C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@^^DEDB??XV??DD@CBC@A@@@A??",
     "start_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c",
     "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
-  },
-  {
-    "station_code": "ADM",
-    "walk_time_minutes": 1.1056225862836995,
-    "walk_distance_metres": 66.33735517702198,
-    "google_polyline": "ek~fC_}xwT????@GBGGCBI?A?G@?AF?@CFICGAEAEAOC?B????",
-    "start_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c",
-    "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
   },
   {
     "station_code": "ADM",
@@ -1233,11 +1225,11 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.430681160992488,
-    "walk_distance_metres": 205.84086965954938,
-    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@?C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@FGFI`@\\BE@AHKB@DDDD??",
-    "start_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf",
-    "end_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df"
+    "walk_time_minutes": 2.1593947953137715,
+    "walk_distance_metres": 129.56368771882632,
+    "google_polyline": "ek~fC_}xwT????@GBGGCA?UGA?GACAEA?A?I@G@G@G?I@G@INBERB@??I`@???DOC?B????",
+    "start_platform_amenity_id": "7ce6564f-3fe1-4649-abab-9e493ab7038c",
+    "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
   },
   {
     "station_code": "ADM",
@@ -1249,6 +1241,14 @@
   },
   {
     "station_code": "ADM",
+    "walk_time_minutes": 3.430681160992488,
+    "walk_distance_metres": 205.84086965954938,
+    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@?C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@FGFI`@\\BE@AHKB@DDDD??",
+    "start_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf",
+    "end_platform_amenity_id": "36b54d5b-19b4-4f3f-bbfd-4579e50310df"
+  },
+  {
+    "station_code": "ADM",
     "walk_time_minutes": 3.2618672650464102,
     "walk_distance_metres": 195.7120359027847,
     "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@?C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@^^CD?@KLB@DDDD@@?A",
@@ -1257,9 +1257,9 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 3.5335551308473434,
-    "walk_distance_metres": 212.01330785084065,
-    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@?C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@^^DEBCPP??B@????@@?@JHBC@A@@@A??",
+    "walk_time_minutes": 3.533946530522044,
+    "walk_distance_metres": 212.03679183132266,
+    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@?C?ANaA@??A?@DQLB@G@GF?DCJIDSDB????ZX????D@^^DEDB??XV??DD@CBC@A@@@A??",
     "start_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf",
     "end_platform_amenity_id": "370791ad-7e3b-466e-8100-27e00580dc67"
   },
@@ -1273,17 +1273,17 @@
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 1.359191850929402,
-    "walk_distance_metres": 81.55151105576412,
-    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CBKCA??F_@?A?A??KACD?HAF?@?DAH?B?B????",
+    "walk_time_minutes": 1.906563363282978,
+    "walk_distance_metres": 114.39380179697866,
+    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CCAEA?A?I@G@G@G?I@G@INBERB@??I`@???DOC?B????",
     "start_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf",
     "end_platform_amenity_id": "4c6da9dc-5ebc-4ff8-bc99-a4bd124647cf"
   },
   {
     "station_code": "ADM",
-    "walk_time_minutes": 1.102292202604837,
-    "walk_distance_metres": 66.13753215629019,
-    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@@?TF@?BI?A?G@?AF?@CF@?F@?@A?",
+    "walk_time_minutes": 2.381887104407961,
+    "walk_distance_metres": 142.9132262644777,
+    "google_polyline": "yl~fCk}xwT?@J@@G??@I?CF@?C?ANaA@??A?@DQLB?BG^@??@??If@??C?AHHB@?F@?@A?",
     "start_platform_amenity_id": "7b4b099e-7863-42ec-b6d0-ea04fe031cdf",
     "end_platform_amenity_id": "2d9fea37-1605-4d78-bb8d-13c6b204ae16"
   },
@@ -1298,26 +1298,18 @@
   {
     "station_code": "LMC",
     "walk_time_minutes": 0.2636774035642202,
-    "walk_distance_metres": 15.82064421385321,
-    "google_polyline": "{jlhCsmewTB??@FAB???F???BA",
-    "start_platform_amenity_id": "4776ae4a-058a-4340-98e6-c1f26c03a99d",
-    "end_platform_amenity_id": "c042bfe1-8fb2-481c-9603-6710cb3c4f55"
-  },
-  {
-    "station_code": "LMC",
-    "walk_time_minutes": 0.2636774035642202,
     "walk_distance_metres": 15.820644213853212,
     "google_polyline": "_jlhCumewTC@??G???C?G@?AC?",
     "start_platform_amenity_id": "c042bfe1-8fb2-481c-9603-6710cb3c4f55",
     "end_platform_amenity_id": "4776ae4a-058a-4340-98e6-c1f26c03a99d"
   },
   {
-    "station_code": "CHW",
-    "walk_time_minutes": 0.5955954068916458,
-    "walk_distance_metres": 35.735724413498744,
-    "google_polyline": "}p{fC{|fxT??GCMG??@EBELFFB",
-    "start_platform_amenity_id": "126cd430-216e-419a-be29-f433d2994833",
-    "end_platform_amenity_id": "f9d7f7f5-bd5f-4f61-84d3-93cf498e343f"
+    "station_code": "LMC",
+    "walk_time_minutes": 0.2636774035642202,
+    "walk_distance_metres": 15.82064421385321,
+    "google_polyline": "{jlhCsmewTB??@FAB???F???BA",
+    "start_platform_amenity_id": "4776ae4a-058a-4340-98e6-c1f26c03a99d",
+    "end_platform_amenity_id": "c042bfe1-8fb2-481c-9603-6710cb3c4f55"
   },
   {
     "station_code": "CHW",
@@ -1328,12 +1320,12 @@
     "end_platform_amenity_id": "126cd430-216e-419a-be29-f433d2994833"
   },
   {
-    "station_code": "HFC",
-    "walk_time_minutes": 1.2397806194648548,
-    "walk_distance_metres": 74.38683716789129,
-    "google_polyline": "_{}fColgxT@ADEBDEB?@A???@A@???AA?AAA?A?C?C@AIC??EAEBA??@A@C@AC??@?@A?AA@A?GF?@BBFEFG??",
-    "start_platform_amenity_id": "f5b2d402-1980-46ed-834c-b9201fca42ba",
-    "end_platform_amenity_id": "43b7d268-6b79-46d9-9829-ef5753cb7f1c"
+    "station_code": "CHW",
+    "walk_time_minutes": 0.5955954068916458,
+    "walk_distance_metres": 35.735724413498744,
+    "google_polyline": "}p{fC{|fxT??GCMG??@EBELFFB",
+    "start_platform_amenity_id": "126cd430-216e-419a-be29-f433d2994833",
+    "end_platform_amenity_id": "f9d7f7f5-bd5f-4f61-84d3-93cf498e343f"
   },
   {
     "station_code": "HFC",
@@ -1342,6 +1334,14 @@
     "google_polyline": "m{}fCamgxT??GFGDCC?AFG@?@A?@A@A???@BBA@A?A@?DCD@??HBA@?B?B?@@@?@@@??A?A@??@??ADCCEEDA@",
     "start_platform_amenity_id": "43b7d268-6b79-46d9-9829-ef5753cb7f1c",
     "end_platform_amenity_id": "f5b2d402-1980-46ed-834c-b9201fca42ba"
+  },
+  {
+    "station_code": "HFC",
+    "walk_time_minutes": 1.2397806194648548,
+    "walk_distance_metres": 74.38683716789129,
+    "google_polyline": "_{}fColgxT@ADEBDEB?@A???@A@???AA?AAA?A?C?C@AIC??EAEBA??@A@C@AC??@?@A?AA@A?GF?@BBFEFG??",
+    "start_platform_amenity_id": "f5b2d402-1980-46ed-834c-b9201fca42ba",
+    "end_platform_amenity_id": "43b7d268-6b79-46d9-9829-ef5753cb7f1c"
   },
   {
     "station_code": "SKW",
@@ -1393,19 +1393,19 @@
   },
   {
     "station_code": "QUB",
-    "walk_time_minutes": 1.685700866192374,
-    "walk_distance_metres": 101.14205197154243,
-    "google_polyline": "qd`gCgjaxTA[AQB?BAAA??@?BC@???ACEIAAACGDEDKQq@b@??A???",
-    "start_platform_amenity_id": "0ad76f4e-a64e-48b3-ac8b-7fe927a5a2a4",
-    "end_platform_amenity_id": "d200f054-0035-4088-8e0c-355c5d6ee0b2"
-  },
-  {
-    "station_code": "QUB",
     "walk_time_minutes": 0.9612726471562351,
     "walk_distance_metres": 57.6763588293741,
     "google_polyline": "qd`gCgjaxTA[RAJAF?D???BA?J@P??",
     "start_platform_amenity_id": "0ad76f4e-a64e-48b3-ac8b-7fe927a5a2a4",
     "end_platform_amenity_id": "b406e3f7-2fad-489c-9105-4adeb656a57b"
+  },
+  {
+    "station_code": "QUB",
+    "walk_time_minutes": 1.69325143837528,
+    "walk_distance_metres": 101.59508630251679,
+    "google_polyline": "qd`gCgjaxTA[AQB?BA?@@???@A??A@??A??@A?O@AQ?AKQq@b@??A???",
+    "start_platform_amenity_id": "0ad76f4e-a64e-48b3-ac8b-7fe927a5a2a4",
+    "end_platform_amenity_id": "d200f054-0035-4088-8e0c-355c5d6ee0b2"
   },
   {
     "station_code": "QUB",
@@ -1425,35 +1425,35 @@
   },
   {
     "station_code": "QUB",
-    "walk_time_minutes": 1.685700866192374,
-    "walk_distance_metres": 101.14205197154246,
-    "google_polyline": "ag`gCskaxT??@???p@c@JPDEFE@B@@DH@B??A?CBA???@@C@C?@P@Z",
+    "walk_time_minutes": 1.69325143837528,
+    "walk_distance_metres": 101.59508630251679,
+    "google_polyline": "ag`gCskaxT??@???p@c@JP?@@PNA@??A@???@A??A@??A??AC@C?@P@Z",
     "start_platform_amenity_id": "d200f054-0035-4088-8e0c-355c5d6ee0b2",
     "end_platform_amenity_id": "0ad76f4e-a64e-48b3-ac8b-7fe927a5a2a4"
   },
   {
     "station_code": "QUB",
-    "walk_time_minutes": 1.901701757083622,
-    "walk_distance_metres": 114.1021054250173,
-    "google_polyline": "ag`gCskaxT??@???p@c@JP?@@PNA@??A??@@??@BFC????@AB?@?BB?@@FF?D???BA?J@P??",
-    "start_platform_amenity_id": "d200f054-0035-4088-8e0c-355c5d6ee0b2",
-    "end_platform_amenity_id": "b406e3f7-2fad-489c-9105-4adeb656a57b"
-  },
-  {
-    "station_code": "QUB",
-    "walk_time_minutes": 1.901701757083622,
-    "walk_distance_metres": 114.10210542501731,
-    "google_polyline": "_c`gCkjaxT??AQ?KC@??E?G?AG?ACCA?C?A@????GBAC??AA???@A?O@AQ?AKQq@b@??A???",
+    "walk_time_minutes": 2.1743591832788285,
+    "walk_distance_metres": 130.46155099672973,
+    "google_polyline": "_c`gCkjaxT??AQ?KC@??E?G?K@S@AQB?BA?@@???@A??A@??A??@A?O@AQ?AKQq@b@??A???",
     "start_platform_amenity_id": "b406e3f7-2fad-489c-9105-4adeb656a57b",
     "end_platform_amenity_id": "d200f054-0035-4088-8e0c-355c5d6ee0b2"
   },
   {
     "station_code": "QUB",
-    "walk_time_minutes": 1.6081212391400403,
-    "walk_distance_metres": 96.48727434840242,
-    "google_polyline": "_c`gCkjaxT??AQ?KC@??E?G?AG?ACCA?C?A@????GBAC??AA???@A?O@?B?PBDA@a@V?A??",
+    "walk_time_minutes": 1.8807786653352465,
+    "walk_distance_metres": 112.84671992011482,
+    "google_polyline": "_c`gCkjaxT??AQ?KC@??E?G?K@S@AQB?BA?@@???@A??A@??A??@A?O@?B?PBDA@a@V?A??",
     "start_platform_amenity_id": "b406e3f7-2fad-489c-9105-4adeb656a57b",
     "end_platform_amenity_id": "cf6687c0-d304-4570-ab7b-59ea71dbb91f"
+  },
+  {
+    "station_code": "QUB",
+    "walk_time_minutes": 2.174359183278828,
+    "walk_distance_metres": 130.46155099672967,
+    "google_polyline": "ag`gCskaxT??@???p@c@JP?@@PNA@??A@???@A??A@??A??AC@C?@PRAJAF?D???BA?J@P??",
+    "start_platform_amenity_id": "d200f054-0035-4088-8e0c-355c5d6ee0b2",
+    "end_platform_amenity_id": "b406e3f7-2fad-489c-9105-4adeb656a57b"
   },
   {
     "station_code": "QUB",
@@ -1473,9 +1473,9 @@
   },
   {
     "station_code": "QUB",
-    "walk_time_minutes": 1.6081212391400408,
-    "walk_distance_metres": 96.48727434840242,
-    "google_polyline": "_f`gC}iaxT???@`@W@ACE?Q?CNA@??A??@@??@BFC????@AB?@?BB?@@FF?D???BA?J@P??",
+    "walk_time_minutes": 1.8807786653352467,
+    "walk_distance_metres": 112.8467199201148,
+    "google_polyline": "_f`gC}iaxT???@`@W@ACE?Q?CNA@??A@???@A??A@??A??AC@C?@PRAJAF?D???BA?J@P??",
     "start_platform_amenity_id": "cf6687c0-d304-4570-ab7b-59ea71dbb91f",
     "end_platform_amenity_id": "b406e3f7-2fad-489c-9105-4adeb656a57b"
   },
@@ -1497,18 +1497,26 @@
   },
   {
     "station_code": "NOP",
-    "walk_time_minutes": 2.559127097523067,
-    "walk_distance_metres": 153.54762585138405,
-    "google_polyline": "os`gC}w_xT??@B@F?DmAPCQDCJADA??`@I@?@?AGAGAITC@?VEDX??",
-    "start_platform_amenity_id": "f3ec3662-82da-4a53-bc59-8dfdbac6e87f",
+    "walk_time_minutes": 1.922593110716077,
+    "walk_distance_metres": 115.35558664296461,
+    "google_polyline": "iw`gCaw_xT@?h@IDC?GAILC@?b@G??@?AITC@?VEDX??",
+    "start_platform_amenity_id": "4341b7c0-c603-40fb-94ab-e70c8fb11989",
     "end_platform_amenity_id": "afe8a2ab-7cd9-40a0-9e2e-c4684d70e115"
   },
   {
     "station_code": "NOP",
-    "walk_time_minutes": 1.910607407896952,
-    "walk_distance_metres": 114.63644447381712,
-    "google_polyline": "iw`gCaw_xT@?h@IDCJADA??`@I@?@?AGAGAITC@?VEDX??",
+    "walk_time_minutes": 2.300127428695931,
+    "walk_distance_metres": 138.00764572175586,
+    "google_polyline": "iw`gCaw_xT@?h@IDC?GAILC@?b@G??@?AI?AWDE@C@C?A@E@E?@F_@F?@?B@B@H??",
     "start_platform_amenity_id": "4341b7c0-c603-40fb-94ab-e70c8fb11989",
+    "end_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2"
+  },
+  {
+    "station_code": "NOP",
+    "walk_time_minutes": 2.571112800342192,
+    "walk_distance_metres": 154.26676802053152,
+    "google_polyline": "os`gC}w_xT??@B@F?DmAPCQDC?GAILC@?b@G??@?AITC@?VEDX??",
+    "start_platform_amenity_id": "f3ec3662-82da-4a53-bc59-8dfdbac6e87f",
     "end_platform_amenity_id": "afe8a2ab-7cd9-40a0-9e2e-c4684d70e115"
   },
   {
@@ -1521,33 +1529,25 @@
   },
   {
     "station_code": "NOP",
-    "walk_time_minutes": 2.288141725876806,
-    "walk_distance_metres": 137.28850355260838,
-    "google_polyline": "iw`gCaw_xT@?h@IDCJADA??`@I@?@?AGAGAI?AWDE@C@C?A@E@E?@F_@F?@?B@B@H??",
-    "start_platform_amenity_id": "4341b7c0-c603-40fb-94ab-e70c8fb11989",
-    "end_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2"
-  },
-  {
-    "station_code": "NOP",
-    "walk_time_minutes": 2.5010704724709183,
-    "walk_distance_metres": 150.0642283482551,
-    "google_polyline": "os`gC}w_xT???CAIAGAGAG?IAG?AMBK@AMCQUD@F??Fb@@LC@C?A@E@E?@F_@F?@?B@B@H??",
+    "walk_time_minutes": 2.9486471183220457,
+    "walk_distance_metres": 176.91882709932278,
+    "google_polyline": "os`gC}w_xT??@B@F?DmAPCQDC?GAILC@?b@G??@?AI?AWDE@C@C?A@E@E?@F_@F?@?B@B@H??",
     "start_platform_amenity_id": "f3ec3662-82da-4a53-bc59-8dfdbac6e87f",
     "end_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2"
   },
   {
     "station_code": "NOP",
-    "walk_time_minutes": 1.9106074078969522,
-    "walk_distance_metres": 114.63644447381712,
-    "google_polyline": "or`gCgx_xT??EYWDA?UB@H@F@FA?A?a@H??E@K@EBi@HA?",
+    "walk_time_minutes": 1.9210006194519396,
+    "walk_distance_metres": 115.26003716711638,
+    "google_polyline": "or`gCgx_xT??EYWDA?UB@H@FA@A?a@FOB?FEBi@HA?",
     "start_platform_amenity_id": "afe8a2ab-7cd9-40a0-9e2e-c4684d70e115",
     "end_platform_amenity_id": "4341b7c0-c603-40fb-94ab-e70c8fb11989"
   },
   {
     "station_code": "NOP",
-    "walk_time_minutes": 2.5591270975230676,
-    "walk_distance_metres": 153.54762585138403,
-    "google_polyline": "or`gCgx_xT??EYWDA?UB@H@F@FA?A?a@H??E@K@EBBPlAQ?EAGAC??",
+    "walk_time_minutes": 2.569520309078055,
+    "walk_distance_metres": 154.17121854468328,
+    "google_polyline": "or`gCgx_xT??EYWDA?UB@H@FA@A?a@FOB?FEBBPlAQ?EAGAC??",
     "start_platform_amenity_id": "afe8a2ab-7cd9-40a0-9e2e-c4684d70e115",
     "end_platform_amenity_id": "f3ec3662-82da-4a53-bc59-8dfdbac6e87f"
   },
@@ -1561,19 +1561,11 @@
   },
   {
     "station_code": "NOP",
-    "walk_time_minutes": 2.288141725876806,
-    "walk_distance_metres": 137.28850355260838,
-    "google_polyline": "sv`gCgw_xT??AIAC?C?A^GAGD?DA@AB?BADAVE?@@H@F@FA?A?a@H??E@K@EBi@HA?",
+    "walk_time_minutes": 2.2985349374317936,
+    "walk_distance_metres": 137.9120962459076,
+    "google_polyline": "sv`gCgw_xT??AIAC?C?A^GAGD?DA@AB?BADAVE?@@H@FA@A?a@FOB?FEBi@HA?",
     "start_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2",
     "end_platform_amenity_id": "4341b7c0-c603-40fb-94ab-e70c8fb11989"
-  },
-  {
-    "station_code": "NOP",
-    "walk_time_minutes": 2.5010704724709183,
-    "walk_distance_metres": 150.06422834825509,
-    "google_polyline": "sv`gCgw_xT??AIAC?C?A^GAGD?DA@AB?BAAMGc@??AGTEBP@LJALC?@@F?H@F@F@F@H?B??",
-    "start_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2",
-    "end_platform_amenity_id": "f3ec3662-82da-4a53-bc59-8dfdbac6e87f"
   },
   {
     "station_code": "NOP",
@@ -1582,6 +1574,14 @@
     "google_polyline": "sv`gCgw_xT??AIAC?C?A^GAGD?DA@AB?BADAVE?@TC@?VEDX??",
     "start_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2",
     "end_platform_amenity_id": "afe8a2ab-7cd9-40a0-9e2e-c4684d70e115"
+  },
+  {
+    "station_code": "NOP",
+    "walk_time_minutes": 2.5069368304413535,
+    "walk_distance_metres": 150.41620982648124,
+    "google_polyline": "sv`gCgw_xT??AIAC?C?A^GAGD?DAAK??Gg@??AGHATEBP@LJALC?@@F?H@F@F@F@H?B??",
+    "start_platform_amenity_id": "6484fba2-8eb7-481a-b602-0118e81d0cc2",
+    "end_platform_amenity_id": "f3ec3662-82da-4a53-bc59-8dfdbac6e87f"
   },
   {
     "station_code": "FOH",
@@ -1617,19 +1617,19 @@
   },
   {
     "station_code": "CAB",
-    "walk_time_minutes": 2.303052151394123,
-    "walk_distance_metres": 138.1831290836474,
-    "google_polyline": "_r~fCas|wT??AKCKAQEYAGA@A?C@C???G?AE?K?C??????CCA??@@@?FBLJ???B?@A@?@?DV@J@N@@B\\",
-    "start_platform_amenity_id": "ef0a8a54-5a25-4044-8269-dad9d2b76951",
-    "end_platform_amenity_id": "89027298-c457-4498-a124-40bfdc38e8ef"
+    "walk_time_minutes": 2.675036018284355,
+    "walk_distance_metres": 160.50216109706133,
+    "google_polyline": "_r~fCwr|wTC]C???G?G??@K?@ZK??G??CeA???GJA@DF???B?BA@?@A@FDX@PBJ@J??",
+    "start_platform_amenity_id": "89027298-c457-4498-a124-40bfdc38e8ef",
+    "end_platform_amenity_id": "ef0a8a54-5a25-4044-8269-dad9d2b76951"
   },
   {
     "station_code": "CAB",
-    "walk_time_minutes": 2.303052151394123,
-    "walk_distance_metres": 138.1831290836474,
-    "google_polyline": "_r~fCwr|wTC]AAAOAKEWA?A?A@C???K?CM?GAA?A@?BB???????B?J@DF???B?BA@?@A@FDX@PBJ@J??",
-    "start_platform_amenity_id": "89027298-c457-4498-a124-40bfdc38e8ef",
-    "end_platform_amenity_id": "ef0a8a54-5a25-4044-8269-dad9d2b76951"
+    "walk_time_minutes": 2.5587428771524716,
+    "walk_distance_metres": 153.52457262914834,
+    "google_polyline": "_r~fCas|wT??AKCKA?A@G@G@A?E?EJCFK??A??AeA??D?@?JAJ???B?@A@?@?DV@J@N@@B\\",
+    "start_platform_amenity_id": "ef0a8a54-5a25-4044-8269-dad9d2b76951",
+    "end_platform_amenity_id": "89027298-c457-4498-a124-40bfdc38e8ef"
   },
   {
     "station_code": "WAC",
@@ -1665,14 +1665,6 @@
   },
   {
     "station_code": "CEN",
-    "walk_time_minutes": 1.0074174892058052,
-    "walk_distance_metres": 60.44504935234831,
-    "google_polyline": "w}~fCcmwwT??DEBABADE@?IOIF??A???????@??AJGBF@@BD??EDEBA?",
-    "start_platform_amenity_id": "24215121-e2dc-4a92-acfe-34876904b2c3",
-    "end_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4"
-  },
-  {
-    "station_code": "CEN",
     "walk_time_minutes": 0.19129949140693925,
     "walk_distance_metres": 11.477969484416356,
     "google_polyline": "w{~fCcuwwT@?A@?@B@@???B@?A@C??",
@@ -1689,19 +1681,27 @@
   },
   {
     "station_code": "CEN",
+    "walk_time_minutes": 1.0074174892058052,
+    "walk_distance_metres": 60.44504935234831,
+    "google_polyline": "w}~fCcmwwT??DEBABADE@?IOIF??A???????@??AJGBF@@BD??EDEBA?",
+    "start_platform_amenity_id": "24215121-e2dc-4a92-acfe-34876904b2c3",
+    "end_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4"
+  },
+  {
+    "station_code": "CEN",
+    "walk_time_minutes": 2.6796768795449664,
+    "walk_distance_metres": 160.78061277269802,
+    "google_polyline": "w{~fCcuwwT@?A@?@ADAHAFAFAFAB?BCHAFAFAF?BADAFAFAFCF?DABG`@B???B@K`@AHIJA@A???@??AJGBF@@BD??EDEBA?",
+    "start_platform_amenity_id": "8eae4df6-f163-4741-9ef7-e1671d678e5f",
+    "end_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4"
+  },
+  {
+    "station_code": "CEN",
     "walk_time_minutes": 2.6469640758396014,
     "walk_distance_metres": 158.8178445503761,
     "google_polyline": "k{~fCauwwT??AB?@ADAFAHAB?BCF?@ADAHAFAB?BAFAB?BAHCF?DA@AF?BABEVCHK`@AHIJA@A?????@???HGHNA?EDC@C@ED????",
     "start_platform_amenity_id": "c73dba15-e446-4daa-9629-9c6805ef79b8",
     "end_platform_amenity_id": "24215121-e2dc-4a92-acfe-34876904b2c3"
-  },
-  {
-    "station_code": "CEN",
-    "walk_time_minutes": 2.4717994957482663,
-    "walk_distance_metres": 148.30796974489604,
-    "google_polyline": "w{~fCcuwwT@?A@?@ADAHAFAFAFAB?BCHAFAFAF?BADAFAFAFCF?DB???AH??I`@??G@FRMLDFBF@@BD??EDEBA?",
-    "start_platform_amenity_id": "8eae4df6-f163-4741-9ef7-e1671d678e5f",
-    "end_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4"
   },
   {
     "station_code": "CEN",
@@ -1713,9 +1713,9 @@
   },
   {
     "station_code": "CEN",
-    "walk_time_minutes": 2.4746809773067415,
-    "walk_distance_metres": 148.48085863840453,
-    "google_polyline": "k{~fCauwwT??AB?@ADAFAHAB?BCF?@ADAHAFAB?BAFAB?BAHCF?DA@AF?BEAAH??I`@??G@FRMLDFBF@@BD??EDEBA?",
+    "walk_time_minutes": 2.5959370475044747,
+    "walk_distance_metres": 155.75622285026853,
+    "google_polyline": "k{~fCauwwT??AB?@ADAFAHAB?BCF?@ADAHAFAB?BAFAB?BAHCF?DA@AF?BABEVCHK`@AHIJA@A???@??AJGBF@@BD??EDEBA?",
     "start_platform_amenity_id": "c73dba15-e446-4daa-9629-9c6805ef79b8",
     "end_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4"
   },
@@ -1729,33 +1729,33 @@
   },
   {
     "station_code": "CEN",
-    "walk_time_minutes": 2.501634157948214,
-    "walk_distance_metres": 150.0980494768928,
-    "google_polyline": "m}~fCkmwwT@?DCDE??CEAACGEGLMGSHc@Ji@D@BI?AHa@??@I????E?@C@G@G@G@I@E?A@AA?",
+    "walk_time_minutes": 2.5030195715858046,
+    "walk_distance_metres": 150.18117429514825,
+    "google_polyline": "m}~fCkmwwT@?DCDE??CEAACGEGLMGSHc@F@@I??Ha@?A@G??CA?C@G@G@GBI?C@C@G@G@G@I@E?A@AA?",
     "start_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4",
     "end_platform_amenity_id": "8eae4df6-f163-4741-9ef7-e1671d678e5f"
   },
   {
     "station_code": "CEN",
-    "walk_time_minutes": 2.5017615752481603,
-    "walk_distance_metres": 150.10569451488954,
-    "google_polyline": "m}~fCkmwwT@?DCDE??CEAACGEGLMGSHc@Ji@D@BI?AHa@??@IB@?ABG?C@C@I@G@E?A@C??",
+    "walk_time_minutes": 2.5022258452980943,
+    "walk_distance_metres": 150.1335507178856,
+    "google_polyline": "m}~fCkmwwT@?DCDE??CEAACGEGLMGSHc@F@@I??Ha@?A@GB@@C@G?C@C@G@I@E?ABG?C@C@I@G@E?A@C??",
     "start_platform_amenity_id": "3a87ddde-ab02-4f29-87bc-174ac9ad2ec4",
     "end_platform_amenity_id": "c73dba15-e446-4daa-9629-9c6805ef79b8"
   },
   {
     "station_code": "SHW",
-    "walk_time_minutes": 2.615604213996992,
-    "walk_distance_metres": 156.93625283981956,
-    "google_polyline": "yy_gCmkvwT??O|@A?A?MCAD?@DGNJ??B?@E@E@E?A@E?CBOVDLBAFB???@@????@?@?@@?A@A?GCAKCKCAAA?BO??",
+    "walk_time_minutes": 3.49037662052563,
+    "walk_distance_metres": 209.42259723153785,
+    "google_polyline": "yy_gCmkvwT??O|@A?A?MCCAYGABAFB?@@l@L??B@@G@E@E@ELD??n@J?@H@?G@EBIMMGACAKCKCAAA?BO??",
     "start_platform_amenity_id": "086cc0b0-1682-4770-b1aa-3e1a0ca4ae64",
     "end_platform_amenity_id": "b11faba0-8179-44b9-894a-4cf639b3d832"
   },
   {
     "station_code": "SHW",
-    "walk_time_minutes": 2.615604213996992,
-    "walk_distance_metres": 156.93625283981953,
-    "google_polyline": "ay_gCgkvwT??CN@?@@JBJBB@?FA@?@AAA?A?????AA??C?@GMCWECN?BAD?@ADADADC???OKEF?A@ELB@?@?N}@??",
+    "walk_time_minutes": 4.033089054216319,
+    "walk_distance_metres": 241.98534325297905,
+    "google_polyline": "ay_gCgkvwT??CN@?@@JBJBB@F@LLCHGA??o@M??OC?BAD?@ADAD]IADEA??o@M??C?@G^H?@XFB@LB@?@?N}@??",
     "start_platform_amenity_id": "b11faba0-8179-44b9-894a-4cf639b3d832",
     "end_platform_amenity_id": "086cc0b0-1682-4770-b1aa-3e1a0ca4ae64"
   },
@@ -1817,14 +1817,6 @@
   },
   {
     "station_code": "TIK",
-    "walk_time_minutes": 0.8293083860596746,
-    "walk_distance_metres": 49.758503163580485,
-    "google_polyline": "}fcgCm{ixT?A??EECEEGDEDF??NN?@@@EDCECA?@",
-    "start_platform_amenity_id": "1341891f-fd36-4c4e-ab3e-5f2f254a65b1",
-    "end_platform_amenity_id": "36dfa2ad-af3c-4839-81d9-d75d3df280a9"
-  },
-  {
-    "station_code": "TIK",
     "walk_time_minutes": 0.7300546301148033,
     "walk_distance_metres": 43.803277806888204,
     "google_polyline": "}fcgCm{ixT?A??FFDE@CDEBB@?ED??A@??@A??DE??ECAEAA??",
@@ -1833,19 +1825,11 @@
   },
   {
     "station_code": "TIK",
-    "walk_time_minutes": 0.5280243851031287,
-    "walk_distance_metres": 31.681463106187714,
-    "google_polyline": "kfcgC_|ixTAA?@DD?@BB@?ED??A@??@A??DE??ECAEAA??",
-    "start_platform_amenity_id": "524f70fd-640e-414e-90b6-383578bdb6ef",
-    "end_platform_amenity_id": "be5f9d2c-14de-4c45-b2bf-92405927319d"
-  },
-  {
-    "station_code": "TIK",
-    "walk_time_minutes": 0.41891844041509047,
-    "walk_distance_metres": 25.13510642490542,
-    "google_polyline": "kfcgC_|ixTAA?@DD?@EDABEDGG???@",
-    "start_platform_amenity_id": "524f70fd-640e-414e-90b6-383578bdb6ef",
-    "end_platform_amenity_id": "1341891f-fd36-4c4e-ab3e-5f2f254a65b1"
+    "walk_time_minutes": 0.9529912237498162,
+    "walk_distance_metres": 57.17947342498898,
+    "google_polyline": "}fcgCm{ixT?A??FFDE@CDEBB@?ED??A@??@A??DE??ECCDCBEDCECA?@",
+    "start_platform_amenity_id": "1341891f-fd36-4c4e-ab3e-5f2f254a65b1",
+    "end_platform_amenity_id": "36dfa2ad-af3c-4839-81d9-d75d3df280a9"
   },
   {
     "station_code": "TIK",
@@ -1857,10 +1841,10 @@
   },
   {
     "station_code": "TIK",
-    "walk_time_minutes": 0.8293083860596747,
-    "walk_distance_metres": 49.75850316358049,
-    "google_polyline": "}fcgCm{ixT?AB@BDDEAA?AOO??EGEDDFBDDD???@",
-    "start_platform_amenity_id": "36dfa2ad-af3c-4839-81d9-d75d3df280a9",
+    "walk_time_minutes": 0.41891844041509047,
+    "walk_distance_metres": 25.13510642490542,
+    "google_polyline": "kfcgC_|ixTAA?@DD?@EDABEDGG???@",
+    "start_platform_amenity_id": "524f70fd-640e-414e-90b6-383578bdb6ef",
     "end_platform_amenity_id": "1341891f-fd36-4c4e-ab3e-5f2f254a65b1"
   },
   {
@@ -1870,6 +1854,22 @@
     "google_polyline": "}fcgCm{ixT?AB@BDDEBCBEDB??ED??A@??@A??DEA?CC?AEE?A@@",
     "start_platform_amenity_id": "36dfa2ad-af3c-4839-81d9-d75d3df280a9",
     "end_platform_amenity_id": "524f70fd-640e-414e-90b6-383578bdb6ef"
+  },
+  {
+    "station_code": "TIK",
+    "walk_time_minutes": 0.9529912237498162,
+    "walk_distance_metres": 57.17947342498897,
+    "google_polyline": "}fcgCm{ixT?AB@BDDEBCBEDB??ED??A@??@A??DEA?CCEDABEDGG???@",
+    "start_platform_amenity_id": "36dfa2ad-af3c-4839-81d9-d75d3df280a9",
+    "end_platform_amenity_id": "1341891f-fd36-4c4e-ab3e-5f2f254a65b1"
+  },
+  {
+    "station_code": "TIK",
+    "walk_time_minutes": 0.5280243851031287,
+    "walk_distance_metres": 31.681463106187714,
+    "google_polyline": "kfcgC_|ixTAA?@DD?@BB@?ED??A@??@A??DE??ECAEAA??",
+    "start_platform_amenity_id": "524f70fd-640e-414e-90b6-383578bdb6ef",
+    "end_platform_amenity_id": "be5f9d2c-14de-4c45-b2bf-92405927319d"
   },
   {
     "station_code": "TIK",
@@ -1913,43 +1913,11 @@
   },
   {
     "station_code": "YAT",
-    "walk_time_minutes": 0.7290287249304654,
-    "walk_distance_metres": 43.74172349582793,
-    "google_polyline": "s`bgCs}fxT??@DBD@A@?LK@?BC@?BFEBGBED@@A@",
-    "start_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7",
-    "end_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf"
-  },
-  {
-    "station_code": "YAT",
     "walk_time_minutes": 0.6161937213284404,
     "walk_distance_metres": 36.97162327970643,
     "google_polyline": "s`bgCs}fxT??AABAFEDC@ABF??OJ??C@CG@A??",
     "start_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7",
     "end_platform_amenity_id": "2f8407b2-bc94-4b43-9e78-92dbdf4c2026"
-  },
-  {
-    "station_code": "YAT",
-    "walk_time_minutes": 0.34369684632556485,
-    "walk_distance_metres": 20.62181077953389,
-    "google_polyline": "{_bgCg}fxT??AAEDE@CECEAE??",
-    "start_platform_amenity_id": "fea6dd02-4160-439b-9eb8-a838018e1cbb",
-    "end_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7"
-  },
-  {
-    "station_code": "YAT",
-    "walk_time_minutes": 0.7290287249304652,
-    "walk_distance_metres": 43.74172349582793,
-    "google_polyline": "c`bgC_}fxT@AAADEFCDCCGA?CBA?MJA?A@CEAE??",
-    "start_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf",
-    "end_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7"
-  },
-  {
-    "station_code": "YAT",
-    "walk_time_minutes": 0.6918521606066185,
-    "walk_distance_metres": 41.51112963639711,
-    "google_polyline": "{_bgCg}fxT??AADC@ACECE??OJ??C@HJBA@@A@",
-    "start_platform_amenity_id": "fea6dd02-4160-439b-9eb8-a838018e1cbb",
-    "end_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf"
   },
   {
     "station_code": "YAT",
@@ -1961,6 +1929,30 @@
   },
   {
     "station_code": "YAT",
+    "walk_time_minutes": 0.7290287249304654,
+    "walk_distance_metres": 43.74172349582793,
+    "google_polyline": "s`bgCs}fxT??@DBD@A@?LK@?BC@?BFEBGBED@@A@",
+    "start_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7",
+    "end_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf"
+  },
+  {
+    "station_code": "YAT",
+    "walk_time_minutes": 0.6918521606066185,
+    "walk_distance_metres": 41.51112963639711,
+    "google_polyline": "{_bgCg}fxT??AADC@ACECE??OJ??C@HJBA@@A@",
+    "start_platform_amenity_id": "fea6dd02-4160-439b-9eb8-a838018e1cbb",
+    "end_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf"
+  },
+  {
+    "station_code": "YAT",
+    "walk_time_minutes": 0.34369684632556485,
+    "walk_distance_metres": 20.62181077953389,
+    "google_polyline": "{_bgCg}fxT??AAEDE@CECEAE??",
+    "start_platform_amenity_id": "fea6dd02-4160-439b-9eb8-a838018e1cbb",
+    "end_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7"
+  },
+  {
+    "station_code": "YAT",
     "walk_time_minutes": 0.6918521606066185,
     "walk_distance_metres": 41.51112963639711,
     "google_polyline": "c`bgC_}fxT@AAAC@IKBA??NK??BDBDA@EB@@??",
@@ -1969,11 +1961,19 @@
   },
   {
     "station_code": "YAT",
-    "walk_time_minutes": 0.562454916553694,
-    "walk_distance_metres": 33.747294993221644,
-    "google_polyline": "s`bgCw}fxT??A@BFBA??NK??BDBDA@EB@@??",
-    "start_platform_amenity_id": "2f8407b2-bc94-4b43-9e78-92dbdf4c2026",
-    "end_platform_amenity_id": "fea6dd02-4160-439b-9eb8-a838018e1cbb"
+    "walk_time_minutes": 0.7290287249304652,
+    "walk_distance_metres": 43.74172349582793,
+    "google_polyline": "c`bgC_}fxT@AAADEFCDCCGA?CBA?MJA?A@CEAE??",
+    "start_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf",
+    "end_platform_amenity_id": "3f84ae81-2d39-4955-878c-f72386925cb7"
+  },
+  {
+    "station_code": "YAT",
+    "walk_time_minutes": 0.33269690405493046,
+    "walk_distance_metres": 19.96181424329583,
+    "google_polyline": "c`bgC_}fxT@AAAC@IKCG@A??",
+    "start_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf",
+    "end_platform_amenity_id": "2f8407b2-bc94-4b43-9e78-92dbdf4c2026"
   },
   {
     "station_code": "YAT",
@@ -1985,11 +1985,11 @@
   },
   {
     "station_code": "YAT",
-    "walk_time_minutes": 0.33269690405493046,
-    "walk_distance_metres": 19.96181424329583,
-    "google_polyline": "c`bgC_}fxT@AAAC@IKCG@A??",
-    "start_platform_amenity_id": "1d5ebfce-6262-4b47-87f9-5d7a3242ffcf",
-    "end_platform_amenity_id": "2f8407b2-bc94-4b43-9e78-92dbdf4c2026"
+    "walk_time_minutes": 0.562454916553694,
+    "walk_distance_metres": 33.747294993221644,
+    "google_polyline": "s`bgCw}fxT??A@BFBA??NK??BDBDA@EB@@??",
+    "start_platform_amenity_id": "2f8407b2-bc94-4b43-9e78-92dbdf4c2026",
+    "end_platform_amenity_id": "fea6dd02-4160-439b-9eb8-a838018e1cbb"
   },
   {
     "station_code": "YAT",
@@ -2065,6 +2065,22 @@
   },
   {
     "station_code": "CHH",
+    "walk_time_minutes": 3.1444697949924443,
+    "walk_distance_metres": 188.66818769954682,
+    "google_polyline": "ehigC{laxTA???EFCDEFEDCFED?@EEHI?ANU@?GEIJ@DABIJCBACGEILA@OTA@CBCC??DGBEDGDEBE??DGBC?ADGDEBE@ABCDGBE@AA?",
+    "start_platform_amenity_id": "466c77dc-649f-4cde-a0d2-33b177855d4e",
+    "end_platform_amenity_id": "b73c4dd0-40fe-4930-8ff9-7547979efdba"
+  },
+  {
+    "station_code": "CHH",
+    "walk_time_minutes": 3.0581426641070237,
+    "walk_distance_metres": 183.48855984642142,
+    "google_polyline": "ohigCcmaxT@?CBCDEFEDCDEFCD@@HI?ANU@?GEIJ@DABIJCBACGEILA@OTA@CBB@@ABEDGBEDG@C@ADG@ABCBEDGDEBEDG@C??",
+    "start_platform_amenity_id": "39f498b5-27f1-4b8d-8f93-c0290d887d29",
+    "end_platform_amenity_id": "e619bda8-a16e-4aed-9c42-6b21c911d171"
+  },
+  {
+    "station_code": "CHH",
     "walk_time_minutes": 0.16405315330854162,
     "walk_distance_metres": 9.843189198512496,
     "google_polyline": "ehigC{laxTA?BCCACCA@A?",
@@ -2081,10 +2097,10 @@
   },
   {
     "station_code": "CHH",
-    "walk_time_minutes": 3.1444697949924443,
-    "walk_distance_metres": 188.66818769954682,
-    "google_polyline": "ehigC{laxTA???EFCDEFEDCFED?@EEHI?ANU@?GEIJ@DABIJCBACGEILA@OTA@CBCC??DGBEDGDEBE??DGBC?ADGDEBE@ABCDGBE@AA?",
-    "start_platform_amenity_id": "466c77dc-649f-4cde-a0d2-33b177855d4e",
+    "walk_time_minutes": 3.121296796438783,
+    "walk_distance_metres": 187.2778077863271,
+    "google_polyline": "ohigCcmaxT@?CBCDEFEDCDEFCD@@HI?ANU@?GEIJ@DABIJCBACGEILA@OTA@CBCC??DGBEDGDEBE??DGBC?ADGDEBE@ABCDGBE@AA?",
+    "start_platform_amenity_id": "39f498b5-27f1-4b8d-8f93-c0290d887d29",
     "end_platform_amenity_id": "b73c4dd0-40fe-4930-8ff9-7547979efdba"
   },
   {
@@ -2097,33 +2113,9 @@
   },
   {
     "station_code": "CHH",
-    "walk_time_minutes": 3.0581426641070237,
-    "walk_distance_metres": 183.48855984642142,
-    "google_polyline": "ohigCcmaxT@?CBCDEFEDCDEFCD@@HI?ANU@?GEIJ@DABIJCBACGEILA@OTA@CBB@@ABEDGBEDG@C@ADG@ABCBEDGDEBEDG@C??",
-    "start_platform_amenity_id": "39f498b5-27f1-4b8d-8f93-c0290d887d29",
-    "end_platform_amenity_id": "e619bda8-a16e-4aed-9c42-6b21c911d171"
-  },
-  {
-    "station_code": "CHH",
-    "walk_time_minutes": 3.121296796438783,
-    "walk_distance_metres": 187.2778077863271,
-    "google_polyline": "ohigCcmaxT@?CBCDEFEDCDEFCD@@HI?ANU@?GEIJ@DABIJCBACGEILA@OTA@CBCC??DGBEDGDEBE??DGBC?ADGDEBE@ABCDGBE@AA?",
-    "start_platform_amenity_id": "39f498b5-27f1-4b8d-8f93-c0290d887d29",
-    "end_platform_amenity_id": "b73c4dd0-40fe-4930-8ff9-7547979efdba"
-  },
-  {
-    "station_code": "CHH",
-    "walk_time_minutes": 2.2793887051939348,
-    "walk_distance_metres": 136.76332231163607,
-    "google_polyline": "whigCkmaxT??@A@AACGJA@EF??ILA?ILFDKNFD??MP??EFBB@ABEDEBGDEDGBC?ADEBGDEDGBEDG??@?",
-    "start_platform_amenity_id": "e619bda8-a16e-4aed-9c42-6b21c911d171",
-    "end_platform_amenity_id": "466c77dc-649f-4cde-a0d2-33b177855d4e"
-  },
-  {
-    "station_code": "CHH",
-    "walk_time_minutes": 2.2608683340374682,
-    "walk_distance_metres": 135.6521000422481,
-    "google_polyline": "whigCkmaxT??@A@AACGJA@EF??ILA?ILFDKNFD??MP??EFCADGBEDGDEBEDG??BEDGBEDEDGBEBCA?",
+    "walk_time_minutes": 3.161465439488293,
+    "walk_distance_metres": 189.6879263692976,
+    "google_polyline": "whigCkmaxT??@A@AACGJA@EF??ILA?ILFDKNOR@?DDMP??QT?@CBAA??BGDEBEDGDEBEDGBEDGDEBEDG??BEDGBEDEDGBEBCA?",
     "start_platform_amenity_id": "e619bda8-a16e-4aed-9c42-6b21c911d171",
     "end_platform_amenity_id": "39f498b5-27f1-4b8d-8f93-c0290d887d29"
   },
@@ -2137,17 +2129,25 @@
   },
   {
     "station_code": "CHH",
-    "walk_time_minutes": 2.2789643617885957,
-    "walk_distance_metres": 136.73786170731574,
-    "google_polyline": "}higCsmaxT@?@CBB??GJA@EF??ILA?ILFDKNFD??MP??EFBB@ABEDEBGDEDGBC?ADEBGDEDGBEDG??@?",
+    "walk_time_minutes": 3.1827979492779908,
+    "walk_distance_metres": 190.9678769566795,
+    "google_polyline": "whigCkmaxT??@A@AACGJA@EF??ILA?ILFDKNOR@?DDMP??QT?@CB?@D@??DGBEDGDEBEBE@ABEDEBGDEDGBC?ADEBGDEDGBEDG??@?",
+    "start_platform_amenity_id": "e619bda8-a16e-4aed-9c42-6b21c911d171",
+    "end_platform_amenity_id": "466c77dc-649f-4cde-a0d2-33b177855d4e"
+  },
+  {
+    "station_code": "CHH",
+    "walk_time_minutes": 3.1823736058726517,
+    "walk_distance_metres": 190.94241635235917,
+    "google_polyline": "}higCsmaxT@?@CBB??GJA@EF??ILA?ILFDKNOR@?DDMP??QT?@CB?@D@??DGBEDGDEBEBE@ABEDEBGDEDGBC?ADEBGDEDGBEDG??@?",
     "start_platform_amenity_id": "b73c4dd0-40fe-4930-8ff9-7547979efdba",
     "end_platform_amenity_id": "466c77dc-649f-4cde-a0d2-33b177855d4e"
   },
   {
     "station_code": "CHH",
-    "walk_time_minutes": 2.260443990632129,
-    "walk_distance_metres": 135.62663943792776,
-    "google_polyline": "}higCsmaxT@?@CBB??GJA@EF??ILA?ILFDKNFD??MP??EFCADGBEDGDEBEDG??BEDGBEDEDGBEBCA?",
+    "walk_time_minutes": 3.161041096082954,
+    "walk_distance_metres": 189.66246576497724,
+    "google_polyline": "}higCsmaxT@?@CBB??GJA@EF??ILA?ILFDKNOR@?DDMP??QT?@CBAA??BGDEBEDGDEBEDGBEDGDEBEDG??BEDGBEDEDGBEBCA?",
     "start_platform_amenity_id": "b73c4dd0-40fe-4930-8ff9-7547979efdba",
     "end_platform_amenity_id": "39f498b5-27f1-4b8d-8f93-c0290d887d29"
   },
@@ -2158,14 +2158,6 @@
     "google_polyline": "}higCsmaxT@?@CBB??@BA@A@??",
     "start_platform_amenity_id": "b73c4dd0-40fe-4930-8ff9-7547979efdba",
     "end_platform_amenity_id": "e619bda8-a16e-4aed-9c42-6b21c911d171"
-  },
-  {
-    "station_code": "DIH",
-    "walk_time_minutes": 0.43166623525046127,
-    "walk_distance_metres": 25.899974115027675,
-    "google_polyline": "ogjgCe``xT@?@C@CDB??B@??DBCFCBB@",
-    "start_platform_amenity_id": "a703df35-ef16-4737-b258-ac92dd5ec47b",
-    "end_platform_amenity_id": "63df7387-2e41-41db-b97e-ba67316eadcd"
   },
   {
     "station_code": "DIH",
@@ -2185,10 +2177,26 @@
   },
   {
     "station_code": "DIH",
-    "walk_time_minutes": 3.3279553866759137,
-    "walk_distance_metres": 199.67732320055478,
-    "google_polyline": "}fjgCu_`xTCABCBGEC??EF??OX?@IPDBLFRHh@RHBIJCDCD??A@BBDDMP?@A@??????@A?ABCBB@ABEBE@AFKBE@ABA@C@A@EIGCC@ABEA?",
+    "walk_time_minutes": 3.4680089463567305,
+    "walk_distance_metres": 208.08053678140377,
+    "google_polyline": "}fjgCu_`xTCABCBGEC??EF??OX?@IPDBLFRHh@RHBIJCDCD??A@BBDD@A?Aj@y@??HK??ACCACC?@EDCDCDCD??ED??A?",
     "start_platform_amenity_id": "63df7387-2e41-41db-b97e-ba67316eadcd",
+    "end_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2"
+  },
+  {
+    "station_code": "DIH",
+    "walk_time_minutes": 0.43166623525046127,
+    "walk_distance_metres": 25.899974115027675,
+    "google_polyline": "ogjgCe``xT@?@C@CDB??B@??DBCFCBB@",
+    "start_platform_amenity_id": "a703df35-ef16-4737-b258-ac92dd5ec47b",
+    "end_platform_amenity_id": "63df7387-2e41-41db-b97e-ba67316eadcd"
+  },
+  {
+    "station_code": "DIH",
+    "walk_time_minutes": 3.4459243228730334,
+    "walk_distance_metres": 206.75545937238192,
+    "google_polyline": "ogjgCe``xT@?@C@CDB??B@EF??OX?@IPDBLFRHh@RHBIJCDCD??A@BBDD@A?Aj@y@??HK??ACCACC?@EDCDCDCD??ED??A?",
+    "start_platform_amenity_id": "a703df35-ef16-4737-b258-ac92dd5ec47b",
     "end_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2"
   },
   {
@@ -2201,27 +2209,11 @@
   },
   {
     "station_code": "DIH",
-    "walk_time_minutes": 3.395412645618135,
-    "walk_distance_metres": 203.7247587370881,
-    "google_polyline": "ydjgCs}_xT@?CDA@BBHFADA@ABC@A@CDGJA@CDCDA@CCCB?@A@??????@A?ALQEECC@A??BEBEHKICi@SSIMGECCAJQ?ANY??BG??B@??DBCFCBB@",
-    "start_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2",
-    "end_platform_amenity_id": "63df7387-2e41-41db-b97e-ba67316eadcd"
-  },
-  {
-    "station_code": "DIH",
-    "walk_time_minutes": 3.305648487472536,
-    "walk_distance_metres": 198.33890924835217,
-    "google_polyline": "ydjgCs}_xT@?CDA@BBHFADA@ABC@A@CDGJA@CDCDA@CCCB?@A@??????@A?ALQEECC@A??BEBEHKICi@SSIMGECCAJQ?ANY??BGECABABA?",
+    "walk_time_minutes": 3.692672209434496,
+    "walk_distance_metres": 221.56033256606972,
+    "google_polyline": "ydjgCs}_xT@?CDA@ABEDCDCDGHABCBED?BC@CDILBBDG??l@{@??DGCCIJICi@SSIMGECCAJQ?ANY??BGECABABA?",
     "start_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2",
     "end_platform_amenity_id": "a703df35-ef16-4737-b258-ac92dd5ec47b"
-  },
-  {
-    "station_code": "DIH",
-    "walk_time_minutes": 3.3058707631922166,
-    "walk_distance_metres": 198.35224579153294,
-    "google_polyline": "ogjgCe``xT@?@C@CDB??B@EF??OX?@IPDBLFRHh@RHBIJCDCD??A@BBDDMP?@A@??????@A?ABCBB@ABEBE@AFKBE@ABA@C@A@EIGCC@ABEA?",
-    "start_platform_amenity_id": "a703df35-ef16-4737-b258-ac92dd5ec47b",
-    "end_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2"
   },
   {
     "station_code": "DIH",
@@ -2241,11 +2233,11 @@
   },
   {
     "station_code": "DIH",
-    "walk_time_minutes": 0.35692086136312207,
-    "walk_distance_metres": 21.41525168178732,
-    "google_polyline": "qdjgCw|_xT@AA?@EIGCC@ABEA?",
-    "start_platform_amenity_id": "c2f007ed-7323-4f13-847b-7b6912de51d9",
-    "end_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2"
+    "walk_time_minutes": 3.782436367580095,
+    "walk_distance_metres": 226.94618205480566,
+    "google_polyline": "ydjgCs}_xT@?CDA@ABEDCDCDGHABCBED?BC@CDILBBDG??l@{@??DGCCIJICi@SSIMGECCAJQ?ANY??BG??B@??DBCFCBB@",
+    "start_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2",
+    "end_platform_amenity_id": "63df7387-2e41-41db-b97e-ba67316eadcd"
   },
   {
     "station_code": "DIH",
@@ -2256,6 +2248,14 @@
     "end_platform_amenity_id": "a703df35-ef16-4737-b258-ac92dd5ec47b"
   },
   {
+    "station_code": "DIH",
+    "walk_time_minutes": 0.35692086136312207,
+    "walk_distance_metres": 21.41525168178732,
+    "google_polyline": "qdjgCw|_xT@AA?@EIGCC@ABEA?",
+    "start_platform_amenity_id": "c2f007ed-7323-4f13-847b-7b6912de51d9",
+    "end_platform_amenity_id": "af78f554-8b80-4a50-b01b-0b5e4eee17e2"
+  },
+  {
     "station_code": "WTS",
     "walk_time_minutes": 0.4639570461663796,
     "walk_distance_metres": 27.837422769982776,
@@ -2264,20 +2264,20 @@
     "end_platform_amenity_id": "415dfd52-4b03-4149-ab55-515f5284cf4f"
   },
   {
-    "station_code": "LOF",
-    "walk_time_minutes": 0.9755180689351559,
-    "walk_distance_metres": 58.53108413610934,
-    "google_polyline": "yzigCia}wT??AGAGCGAGAG?ABABAB?@???BA@@@F@F@B?B?@@DBF?B",
-    "start_platform_amenity_id": "434dd032-2365-4753-bab3-7328b2ddfe9a",
-    "end_platform_amenity_id": "fdb2d551-dcdf-4474-90ab-69b1544674d4"
-  },
-  {
     "station_code": "WTS",
     "walk_time_minutes": 0.4639570461663796,
     "walk_distance_metres": 27.837422769982773,
     "google_polyline": "csjgCcq~wT@??@?H??D?????H??@?F?F?@?@??",
     "start_platform_amenity_id": "415dfd52-4b03-4149-ab55-515f5284cf4f",
     "end_platform_amenity_id": "fc60ecb7-e14f-4a5e-9218-74779930cb54"
+  },
+  {
+    "station_code": "LOF",
+    "walk_time_minutes": 0.9755180689351559,
+    "walk_distance_metres": 58.53108413610934,
+    "google_polyline": "yzigCia}wT??AGAGCGAGAG?ABABAB?@???BA@@@F@F@B?B?@@DBF?B",
+    "start_platform_amenity_id": "434dd032-2365-4753-bab3-7328b2ddfe9a",
+    "end_platform_amenity_id": "fdb2d551-dcdf-4474-90ab-69b1544674d4"
   },
   {
     "station_code": "LOF",
@@ -2305,14 +2305,6 @@
   },
   {
     "station_code": "PRE",
-    "walk_time_minutes": 1.3482284406219995,
-    "walk_distance_metres": 80.89370643731998,
-    "google_polyline": "khggCinywTE@G@G@C?AEI@A?O@?CB?@?BA?B?FB?FAFAFAD?@A@?@?B?FADA@???",
-    "start_platform_amenity_id": "3ff9783f-408c-47b7-92ba-e505687e081f",
-    "end_platform_amenity_id": "47837307-acf7-41da-b20e-fc929c07335a"
-  },
-  {
-    "station_code": "PRE",
     "walk_time_minutes": 0.6916868760372857,
     "walk_distance_metres": 41.50121256223714,
     "google_polyline": "khggCinywTE@G@G@C?AE?EAE@?FAFAFA@??A",
@@ -2321,9 +2313,17 @@
   },
   {
     "station_code": "PRE",
-    "walk_time_minutes": 1.3009007321903963,
-    "walk_distance_metres": 78.05404393142376,
-    "google_polyline": "khggCinywT@?D?@AF?FAFA??FAFA@?B?@AF?@AAE?CA???]DA??EG?G@E@?A",
+    "walk_time_minutes": 1.3482284406219995,
+    "walk_distance_metres": 80.89370643731998,
+    "google_polyline": "khggCinywTE@G@G@C?AEI@A?O@?CB?@?BA?B?FB?FAFAFAD?@A@?@?B?FADA@???",
+    "start_platform_amenity_id": "3ff9783f-408c-47b7-92ba-e505687e081f",
+    "end_platform_amenity_id": "47837307-acf7-41da-b20e-fc929c07335a"
+  },
+  {
+    "station_code": "PRE",
+    "walk_time_minutes": 1.3265805544536413,
+    "walk_distance_metres": 79.59483326721849,
+    "google_polyline": "khggCinywTE@G@G@C?AEI@A?O@?CB?@?BAA??EFA??FAF?FAFAFAFA@??A",
     "start_platform_amenity_id": "3ff9783f-408c-47b7-92ba-e505687e081f",
     "end_platform_amenity_id": "19aa54e6-5588-468a-865b-dd961510abcd"
   },
@@ -2345,9 +2345,9 @@
   },
   {
     "station_code": "PRE",
-    "walk_time_minutes": 1.2685750211728808,
-    "walk_distance_metres": 76.11450127037284,
-    "google_polyline": "mhggC}nywT?@DAB?B???FAFAB?BAFAF?FABA@FA???]DA??EG?G@E@?A",
+    "walk_time_minutes": 1.379761549624956,
+    "walk_distance_metres": 82.78569297749738,
+    "google_polyline": "mhggC}nywT?@A?G@G@G@A?@D?DI@A?O@?CB?@?BAA??EFA??FAF?FAFAFAFA@??A",
     "start_platform_amenity_id": "d3c78817-8e8d-435c-9d05-36b05e13d296",
     "end_platform_amenity_id": "19aa54e6-5588-468a-865b-dd961510abcd"
   },
@@ -2361,10 +2361,10 @@
   },
   {
     "station_code": "PRE",
-    "walk_time_minutes": 1.4014094357933142,
-    "walk_distance_metres": 84.08456614759884,
-    "google_polyline": "}gggCknywT??A?E@G@C?A?A?A@E?G@G@G@C??G?CC@A?C??BNA@?HA?EAE@?FAFAFA@??A",
-    "start_platform_amenity_id": "47837307-acf7-41da-b20e-fc929c07335a",
+    "walk_time_minutes": 1.3797615496249562,
+    "walk_distance_metres": 82.78569297749736,
+    "google_polyline": "ahggC_oywT?@A?G@G@G@G@G?G@??G@?D@?C@A?C??BNA@?HA?EAE@?FAFAFA@??A",
+    "start_platform_amenity_id": "19aa54e6-5588-468a-865b-dd961510abcd",
     "end_platform_amenity_id": "d3c78817-8e8d-435c-9d05-36b05e13d296"
   },
   {
@@ -2377,19 +2377,19 @@
   },
   {
     "station_code": "PRE",
-    "walk_time_minutes": 1.3009007321903963,
-    "walk_distance_metres": 78.05404393142375,
-    "google_polyline": "ahggC_oywT?@DAFAF??D@?\\E??@??B@DA@G?A@C?A?G@G@??G@G@G?A@E?A?",
-    "start_platform_amenity_id": "19aa54e6-5588-468a-865b-dd961510abcd",
-    "end_platform_amenity_id": "3ff9783f-408c-47b7-92ba-e505687e081f"
+    "walk_time_minutes": 1.4014094357933142,
+    "walk_distance_metres": 84.08456614759884,
+    "google_polyline": "}gggCknywT??A?E@G@C?A?A?A@E?G@G@G@C??G?CC@A?C??BNA@?HA?EAE@?FAFAFA@??A",
+    "start_platform_amenity_id": "47837307-acf7-41da-b20e-fc929c07335a",
+    "end_platform_amenity_id": "d3c78817-8e8d-435c-9d05-36b05e13d296"
   },
   {
     "station_code": "PRE",
-    "walk_time_minutes": 1.268575021172881,
-    "walk_distance_metres": 76.11450127037284,
-    "google_polyline": "ahggC_oywT?@DAFAF??D@?\\E??@?AGC@G@G?G@C@C?G@G@??C?C?E@?A",
+    "walk_time_minutes": 1.3265805544536413,
+    "walk_distance_metres": 79.59483326721848,
+    "google_polyline": "ahggC_oywT?@A?G@G@G@G@G?G@??G@?D@?C@A?C??BNA@?HA@DB?FAFADA??",
     "start_platform_amenity_id": "19aa54e6-5588-468a-865b-dd961510abcd",
-    "end_platform_amenity_id": "d3c78817-8e8d-435c-9d05-36b05e13d296"
+    "end_platform_amenity_id": "3ff9783f-408c-47b7-92ba-e505687e081f"
   },
   {
     "station_code": "PRE",
@@ -2401,11 +2401,27 @@
   },
   {
     "station_code": "MOK",
+    "walk_time_minutes": 0.1462820269879351,
+    "walk_distance_metres": 8.776921619276106,
+    "google_polyline": "ggfgCcuywT??AC?E?CAA@?",
+    "start_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156",
+    "end_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797"
+  },
+  {
+    "station_code": "MOK",
     "walk_time_minutes": 1.14871236046484,
     "walk_distance_metres": 68.92274162789037,
     "google_polyline": "ggfgCcuywT????E@G@I?E@G@G@G?G@AGRC@?@A??????B?@?FA???F??B??A",
     "start_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156",
     "end_platform_amenity_id": "b927bc5c-9c43-4857-a364-2ee498fa7325"
+  },
+  {
+    "station_code": "MOK",
+    "walk_time_minutes": 0.14628202698793505,
+    "walk_distance_metres": 8.776921619276106,
+    "google_polyline": "igfgCsuywTA?@@?B?D@B??",
+    "start_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797",
+    "end_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156"
   },
   {
     "station_code": "MOK",
@@ -2425,10 +2441,34 @@
   },
   {
     "station_code": "MOK",
+    "walk_time_minutes": 1.1878174593780213,
+    "walk_distance_metres": 71.26904756268131,
+    "google_polyline": "igfgCsuywTA??AE?G@G@A?E@G@G@G?G@@HRC@?@A??????B?@?FAAG?AB??@",
+    "start_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797",
+    "end_platform_amenity_id": "88e59211-c266-4dec-80de-7ef4aa1168f5"
+  },
+  {
+    "station_code": "MOK",
     "walk_time_minutes": 1.14871236046484,
     "walk_distance_metres": 68.9227416278904,
     "google_polyline": "}gfgCauywT?@C????G??G@A?C???????A@A?SB@FFAF?FAFADAH?FADA????",
     "start_platform_amenity_id": "b927bc5c-9c43-4857-a364-2ee498fa7325",
+    "end_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156"
+  },
+  {
+    "station_code": "MOK",
+    "walk_time_minutes": 1.1646690891737201,
+    "walk_distance_metres": 69.88014535042322,
+    "google_polyline": "}gfgCauywT?@C????G??G@A?C???????A@A?SBAIFAF?FAFADA@?FAFAD??@@?",
+    "start_platform_amenity_id": "b927bc5c-9c43-4857-a364-2ee498fa7325",
+    "end_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797"
+  },
+  {
+    "station_code": "MOK",
+    "walk_time_minutes": 1.1718607306691413,
+    "walk_distance_metres": 70.31164384014849,
+    "google_polyline": "_hfgCouywT?AC??@@FG@A?C???????A@A?SB@FFAF?FAFADAH?FADA????",
+    "start_platform_amenity_id": "88e59211-c266-4dec-80de-7ef4aa1168f5",
     "end_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156"
   },
   {
@@ -2456,52 +2496,12 @@
     "end_platform_amenity_id": "b927bc5c-9c43-4857-a364-2ee498fa7325"
   },
   {
-    "station_code": "MOK",
-    "walk_time_minutes": 0.14628202698793505,
-    "walk_distance_metres": 8.776921619276106,
-    "google_polyline": "igfgCsuywTA?@@?B?D@B??",
-    "start_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797",
-    "end_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156"
-  },
-  {
-    "station_code": "MOK",
-    "walk_time_minutes": 0.1462820269879351,
-    "walk_distance_metres": 8.776921619276106,
-    "google_polyline": "ggfgCcuywT??AC?E?CAA@?",
-    "start_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156",
-    "end_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797"
-  },
-  {
-    "station_code": "MOK",
-    "walk_time_minutes": 1.1718607306691413,
-    "walk_distance_metres": 70.31164384014849,
-    "google_polyline": "_hfgCouywT?AC??@@FG@A?C???????A@A?SB@FFAF?FAFADAH?FADA????",
-    "start_platform_amenity_id": "88e59211-c266-4dec-80de-7ef4aa1168f5",
-    "end_platform_amenity_id": "2d50daa2-0891-4040-8c2e-871c1e000156"
-  },
-  {
-    "station_code": "MOK",
-    "walk_time_minutes": 1.1646690891737201,
-    "walk_distance_metres": 69.88014535042322,
-    "google_polyline": "}gfgCauywT?@C????G??G@A?C???????A@A?SBAIFAF?FAFADA@?FAFAD??@@?",
-    "start_platform_amenity_id": "b927bc5c-9c43-4857-a364-2ee498fa7325",
-    "end_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797"
-  },
-  {
-    "station_code": "MOK",
-    "walk_time_minutes": 1.1878174593780213,
-    "walk_distance_metres": 71.26904756268131,
-    "google_polyline": "igfgCsuywTA??AE?G@G@A?E@G@G@G?G@@HRC@?@A??????B?@?FAAG?AB??@",
-    "start_platform_amenity_id": "ec7b71ae-e77b-40df-8892-ef22963d3797",
-    "end_platform_amenity_id": "88e59211-c266-4dec-80de-7ef4aa1168f5"
-  },
-  {
     "station_code": "YMT",
-    "walk_time_minutes": 0.8490421060668873,
-    "walk_distance_metres": 50.942526364013226,
-    "google_polyline": "a}dgCw}ywT???AA?AE?@a@D???D@?FAFAF?FADA?@",
+    "walk_time_minutes": 1.0641878352678207,
+    "walk_distance_metres": 63.85127011606922,
+    "google_polyline": "a}dgCw}ywT???AA?AE?@a@D???D@?FAFAF?FADA@?@?AE?C?AACC??A",
     "start_platform_amenity_id": "9c6dcaea-f3ee-4295-bb57-2ecd47460701",
-    "end_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e"
+    "end_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d"
   },
   {
     "station_code": "YMT",
@@ -2521,27 +2521,19 @@
   },
   {
     "station_code": "YMT",
+    "walk_time_minutes": 0.8490421060668873,
+    "walk_distance_metres": 50.942526364013226,
+    "google_polyline": "a}dgCw}ywT???AA?AE?@a@D???D@?FAFAF?FADA?@",
+    "start_platform_amenity_id": "9c6dcaea-f3ee-4295-bb57-2ecd47460701",
+    "end_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e"
+  },
+  {
+    "station_code": "YMT",
     "walk_time_minutes": 0.879601403431827,
     "walk_distance_metres": 52.776084205909605,
     "google_polyline": "e}dgCk~ywT?@A?@H?@a@D???D@?FAFAF?FADA?@",
     "start_platform_amenity_id": "ad474753-75d3-4c5b-87fb-4989fb047c4a",
     "end_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e"
-  },
-  {
-    "station_code": "YMT",
-    "walk_time_minutes": 1.0641878352678207,
-    "walk_distance_metres": 63.85127011606922,
-    "google_polyline": "a}dgCw}ywT???AA?AE?@a@D???D@?FAFAF?FADA@?@?AE?C?AACC??A",
-    "start_platform_amenity_id": "9c6dcaea-f3ee-4295-bb57-2ecd47460701",
-    "end_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d"
-  },
-  {
-    "station_code": "YMT",
-    "walk_time_minutes": 1.3790997464281194,
-    "walk_distance_metres": 82.7459847856872,
-    "google_polyline": "c}dgCk~ywT?@B?@B?@?BDAJA??^E@?DAAC?EG@G???G@E@A?G@G?G@G@?A",
-    "start_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d",
-    "end_platform_amenity_id": "ad474753-75d3-4c5b-87fb-4989fb047c4a"
   },
   {
     "station_code": "YMT",
@@ -2553,27 +2545,19 @@
   },
   {
     "station_code": "YMT",
-    "walk_time_minutes": 0.24166535129392921,
-    "walk_distance_metres": 14.499921077635754,
-    "google_polyline": "_}dgCw}ywT?A@?@?AE?C?AACC??A",
-    "start_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e",
-    "end_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d"
-  },
-  {
-    "station_code": "YMT",
-    "walk_time_minutes": 1.3096853336739722,
-    "walk_distance_metres": 78.5811200204383,
-    "google_polyline": "_}dgCw}ywT?A@?@?AEDAJA??^E@?DA?DE@G@??G?C@C?E@A?G@G?G@?@??",
-    "start_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e",
-    "end_platform_amenity_id": "9c6dcaea-f3ee-4295-bb57-2ecd47460701"
-  },
-  {
-    "station_code": "YMT",
     "walk_time_minutes": 1.3460078321716273,
     "walk_distance_metres": 80.76046993029763,
     "google_polyline": "c}dgCk~ywT?@B?@B?@?BDAJA??^E@?DA?DE@G@??G?C@C?E@A?G@G?G@?@??",
     "start_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d",
     "end_platform_amenity_id": "9c6dcaea-f3ee-4295-bb57-2ecd47460701"
+  },
+  {
+    "station_code": "YMT",
+    "walk_time_minutes": 1.3790997464281194,
+    "walk_distance_metres": 82.7459847856872,
+    "google_polyline": "c}dgCk~ywT?@B?@B?@?BDAJA??^E@?DAAC?EG@G???G@E@A?G@G?G@G@?A",
+    "start_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d",
+    "end_platform_amenity_id": "ad474753-75d3-4c5b-87fb-4989fb047c4a"
   },
   {
     "station_code": "YMT",
@@ -2585,11 +2569,27 @@
   },
   {
     "station_code": "YMT",
+    "walk_time_minutes": 1.3096853336739722,
+    "walk_distance_metres": 78.5811200204383,
+    "google_polyline": "_}dgCw}ywT?A@?@?AEDAJA??^E@?DA?DE@G@??G?C@C?E@A?G@G?G@?@??",
+    "start_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e",
+    "end_platform_amenity_id": "9c6dcaea-f3ee-4295-bb57-2ecd47460701"
+  },
+  {
+    "station_code": "YMT",
     "walk_time_minutes": 1.3427772479304643,
     "walk_distance_metres": 80.56663487582789,
     "google_polyline": "_}dgCw}ywT?A@?@?AEDAJA??^E@?DAAC?EG@G???G@E@A?G@G?G@G@?A",
     "start_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e",
     "end_platform_amenity_id": "ad474753-75d3-4c5b-87fb-4989fb047c4a"
+  },
+  {
+    "station_code": "YMT",
+    "walk_time_minutes": 0.24166535129392921,
+    "walk_distance_metres": 14.499921077635754,
+    "google_polyline": "_}dgCw}ywT?A@?@?AE?C?AACC??A",
+    "start_platform_amenity_id": "45630527-e311-426d-b626-c1ec33cba75e",
+    "end_platform_amenity_id": "0ed0354e-c68b-4e9f-a050-1f136e41d51d"
   },
   {
     "station_code": "HOM",
@@ -2601,22 +2601,6 @@
   },
   {
     "station_code": "HOM",
-    "walk_time_minutes": 1.070737500610281,
-    "walk_distance_metres": 64.24425003661686,
-    "google_polyline": "shdgCyh|wT???ASMCFABAA?@A??@????????@A??BGCAECECA?CCEAGECFA@AD@???",
-    "start_platform_amenity_id": "c0f17bc6-2f85-4ed7-a927-768f37fd4cc4",
-    "end_platform_amenity_id": "e27e513c-a93d-4d7d-b312-b697d40fa641"
-  },
-  {
-    "station_code": "HOM",
-    "walk_time_minutes": 1.4801591618485916,
-    "walk_distance_metres": 88.80954971091552,
-    "google_polyline": "ahdgCkh|wT?AABABCBH@@A??@C?????????????A@?BGMGGC??GCCAAAECECCFCBA@??A@?????????????A@??A@@@CBGRL?@??",
-    "start_platform_amenity_id": "813a9212-fabe-47a8-920a-121811101d32",
-    "end_platform_amenity_id": "c0f17bc6-2f85-4ed7-a927-768f37fd4cc4"
-  },
-  {
-    "station_code": "HOM",
     "walk_time_minutes": 0.9184872312522316,
     "walk_distance_metres": 55.109233875133896,
     "google_polyline": "shdgCyh|wT???ASMCFABAA?@A??@????????@A??BGCAECECA?CCEAGE????",
@@ -2625,11 +2609,27 @@
   },
   {
     "station_code": "HOM",
+    "walk_time_minutes": 1.070737500610281,
+    "walk_distance_metres": 64.24425003661686,
+    "google_polyline": "shdgCyh|wT???ASMCFABAA?@A??@????????@A??BGCAECECA?CCEAGECFA@AD@???",
+    "start_platform_amenity_id": "c0f17bc6-2f85-4ed7-a927-768f37fd4cc4",
+    "end_platform_amenity_id": "e27e513c-a93d-4d7d-b312-b697d40fa641"
+  },
+  {
+    "station_code": "HOM",
     "walk_time_minutes": 1.4407179933840568,
     "walk_distance_metres": 86.44307960304344,
     "google_polyline": "ahdgCkh|wT?AABABCBH@@A??@C??????AB??ABABA?MGECAACAEAECECGCCEGACCGCECA?@E@ABG????",
     "start_platform_amenity_id": "813a9212-fabe-47a8-920a-121811101d32",
     "end_platform_amenity_id": "f332dd70-102b-4b6c-962c-47852550a933"
+  },
+  {
+    "station_code": "HOM",
+    "walk_time_minutes": 1.4801591618485916,
+    "walk_distance_metres": 88.80954971091552,
+    "google_polyline": "ahdgCkh|wT?AABABCBH@@A??@C?????????????A@?BGMGGC??GCCAAAECECCFCBA@??A@?????????????A@??A@@@CBGRL?@??",
+    "start_platform_amenity_id": "813a9212-fabe-47a8-920a-121811101d32",
+    "end_platform_amenity_id": "c0f17bc6-2f85-4ed7-a927-768f37fd4cc4"
   },
   {
     "station_code": "HOM",
@@ -2649,11 +2649,11 @@
   },
   {
     "station_code": "HOM",
-    "walk_time_minutes": 1.0707375006102808,
-    "walk_distance_metres": 64.24425003661686,
-    "google_polyline": "ujdgCki|wTA?@E@ABGFDD@BB@?DBDBB@CF??A@?????????A@??A@@@CBGRL?@??",
-    "start_platform_amenity_id": "e27e513c-a93d-4d7d-b312-b697d40fa641",
-    "end_platform_amenity_id": "c0f17bc6-2f85-4ed7-a927-768f37fd4cc4"
+    "walk_time_minutes": 1.4407179933840577,
+    "walk_distance_metres": 86.44307960304342,
+    "google_polyline": "ojdgC{i|wT????CFA@AD@?DBFBBBF@BDFBDBDBD@B@@@DBLF@?@C@C??@C??????AB??A@IABC@C@C?@",
+    "start_platform_amenity_id": "f332dd70-102b-4b6c-962c-47852550a933",
+    "end_platform_amenity_id": "813a9212-fabe-47a8-920a-121811101d32"
   },
   {
     "station_code": "HOM",
@@ -2661,14 +2661,6 @@
     "walk_distance_metres": 76.15208737136308,
     "google_polyline": "ujdgCki|wTDBFBBBF@BDFBDBDBD@B@@@DBLF@?@C@C??@C??????AB??A@IABC@C@C?@",
     "start_platform_amenity_id": "e27e513c-a93d-4d7d-b312-b697d40fa641",
-    "end_platform_amenity_id": "813a9212-fabe-47a8-920a-121811101d32"
-  },
-  {
-    "station_code": "HOM",
-    "walk_time_minutes": 1.4407179933840577,
-    "walk_distance_metres": 86.44307960304342,
-    "google_polyline": "ojdgC{i|wT????CFA@AD@?DBFBBBF@BDFBDBDBD@B@@@DBLF@?@C@C??@C??????AB??A@IABC@C@C?@",
-    "start_platform_amenity_id": "f332dd70-102b-4b6c-962c-47852550a933",
     "end_platform_amenity_id": "813a9212-fabe-47a8-920a-121811101d32"
   },
   {
@@ -2681,19 +2673,19 @@
   },
   {
     "station_code": "HOM",
+    "walk_time_minutes": 1.0707375006102808,
+    "walk_distance_metres": 64.24425003661686,
+    "google_polyline": "ujdgCki|wTA?@E@ABGFDD@BB@?DBDBB@CF??A@?????????A@??A@@@CBGRL?@??",
+    "start_platform_amenity_id": "e27e513c-a93d-4d7d-b312-b697d40fa641",
+    "end_platform_amenity_id": "c0f17bc6-2f85-4ed7-a927-768f37fd4cc4"
+  },
+  {
+    "station_code": "HOM",
     "walk_time_minutes": 0.1715165371946728,
     "walk_distance_metres": 10.290992231680367,
     "google_polyline": "ujdgCki|wTA?@E@ABG????",
     "start_platform_amenity_id": "e27e513c-a93d-4d7d-b312-b697d40fa641",
     "end_platform_amenity_id": "f332dd70-102b-4b6c-962c-47852550a933"
-  },
-  {
-    "station_code": "WKS",
-    "walk_time_minutes": 0.30522388107323734,
-    "walk_distance_metres": 18.313432864394244,
-    "google_polyline": "{t{gCgghxTA@?CAEC@??C?A@C??@?D??",
-    "start_platform_amenity_id": "1121e81f-86e8-432a-a0fa-095b6fa3f5d2",
-    "end_platform_amenity_id": "b18aae7c-7a25-48b6-8236-8d5f319b08b7"
   },
   {
     "station_code": "WKS",
@@ -2704,12 +2696,12 @@
     "end_platform_amenity_id": "1121e81f-86e8-432a-a0fa-095b6fa3f5d2"
   },
   {
-    "station_code": "MOS",
-    "walk_time_minutes": 0.4019058808788653,
-    "walk_distance_metres": 24.114352852731916,
-    "google_polyline": "gzzgCmzexT@A@B@FDAFACGBAAA",
-    "start_platform_amenity_id": "2f68e66b-f760-4929-96b6-5146af73f3d4",
-    "end_platform_amenity_id": "57496543-56c9-4169-8a8f-ff285ddfca98"
+    "station_code": "WKS",
+    "walk_time_minutes": 0.30522388107323734,
+    "walk_distance_metres": 18.313432864394244,
+    "google_polyline": "{t{gCgghxTA@?CAEC@??C?A@C??@?D??",
+    "start_platform_amenity_id": "1121e81f-86e8-432a-a0fa-095b6fa3f5d2",
+    "end_platform_amenity_id": "b18aae7c-7a25-48b6-8236-8d5f319b08b7"
   },
   {
     "station_code": "MOS",
@@ -2720,12 +2712,12 @@
     "end_platform_amenity_id": "2f68e66b-f760-4929-96b6-5146af73f3d4"
   },
   {
-    "station_code": "HEO",
-    "walk_time_minutes": 0.2625147785279706,
-    "walk_distance_metres": 15.750886711678238,
-    "google_polyline": "glygCevdxT?@CAADA@ADD@?@",
-    "start_platform_amenity_id": "1afae9c6-061c-47b0-8270-239adb96039a",
-    "end_platform_amenity_id": "535013be-3ae0-485a-9e69-f348567c1f7c"
+    "station_code": "MOS",
+    "walk_time_minutes": 0.4019058808788653,
+    "walk_distance_metres": 24.114352852731916,
+    "google_polyline": "gzzgCmzexT@A@B@FDAFACGBAAA",
+    "start_platform_amenity_id": "2f68e66b-f760-4929-96b6-5146af73f3d4",
+    "end_platform_amenity_id": "57496543-56c9-4169-8a8f-ff285ddfca98"
   },
   {
     "station_code": "HEO",
@@ -2736,12 +2728,12 @@
     "end_platform_amenity_id": "1afae9c6-061c-47b0-8270-239adb96039a"
   },
   {
-    "station_code": "TSH",
-    "walk_time_minutes": 0.3815264974852762,
-    "walk_distance_metres": 22.891589849116574,
-    "google_polyline": "mtwgC}cdxT???BDBEJ??ECEA?@",
-    "start_platform_amenity_id": "bdaf6ab8-9b52-40cf-99f7-1023aca635ae",
-    "end_platform_amenity_id": "1a9d0bf3-1911-4f19-83e0-92928afab781"
+    "station_code": "HEO",
+    "walk_time_minutes": 0.2625147785279706,
+    "walk_distance_metres": 15.750886711678238,
+    "google_polyline": "glygCevdxT?@CAADA@ADD@?@",
+    "start_platform_amenity_id": "1afae9c6-061c-47b0-8270-239adb96039a",
+    "end_platform_amenity_id": "535013be-3ae0-485a-9e69-f348567c1f7c"
   },
   {
     "station_code": "TSH",
@@ -2750,6 +2742,14 @@
     "google_polyline": "ytwgCmcdxT?AD@DB??DKEC?C??",
     "start_platform_amenity_id": "1a9d0bf3-1911-4f19-83e0-92928afab781",
     "end_platform_amenity_id": "bdaf6ab8-9b52-40cf-99f7-1023aca635ae"
+  },
+  {
+    "station_code": "TSH",
+    "walk_time_minutes": 0.3815264974852762,
+    "walk_distance_metres": 22.891589849116574,
+    "google_polyline": "mtwgC}cdxT???BDBEJ??ECEA?@",
+    "start_platform_amenity_id": "bdaf6ab8-9b52-40cf-99f7-1023aca635ae",
+    "end_platform_amenity_id": "1a9d0bf3-1911-4f19-83e0-92928afab781"
   },
   {
     "station_code": "SHM",
@@ -2787,17 +2787,17 @@
     "station_code": "STW",
     "walk_time_minutes": 0.29552256041986513,
     "walk_distance_metres": 17.731353625191907,
-    "google_polyline": "woqgCou~wT?A@ABBDCBCAABA",
-    "start_platform_amenity_id": "0b7130d9-72a9-496c-80b1-f9e101bc43cf",
-    "end_platform_amenity_id": "56927068-c2fd-4d64-a761-498826eb1af8"
+    "google_polyline": "eoqgC{u~wTC@@@CBEBCCA@?@",
+    "start_platform_amenity_id": "56927068-c2fd-4d64-a761-498826eb1af8",
+    "end_platform_amenity_id": "0b7130d9-72a9-496c-80b1-f9e101bc43cf"
   },
   {
     "station_code": "STW",
     "walk_time_minutes": 0.29552256041986513,
     "walk_distance_metres": 17.731353625191907,
-    "google_polyline": "eoqgC{u~wTC@@@CBEBCCA@?@",
-    "start_platform_amenity_id": "56927068-c2fd-4d64-a761-498826eb1af8",
-    "end_platform_amenity_id": "0b7130d9-72a9-496c-80b1-f9e101bc43cf"
+    "google_polyline": "woqgCou~wT?A@ABBDCBCAABA",
+    "start_platform_amenity_id": "0b7130d9-72a9-496c-80b1-f9e101bc43cf",
+    "end_platform_amenity_id": "56927068-c2fd-4d64-a761-498826eb1af8"
   },
   {
     "station_code": "CKT",
@@ -2817,19 +2817,19 @@
   },
   {
     "station_code": "HIK",
-    "walk_time_minutes": 2.0943786571657306,
-    "walk_distance_metres": 125.66271942994382,
-    "google_polyline": "w}ngCe~ywT@??BD@D@D@NBD@F@D@?@AFCAA?AA????C???EA@G@CBO@G@CB@@?@@????B???D@AFA?EAEAEAOEGAEAEAEACAA??@",
-    "start_platform_amenity_id": "5632c86b-e8cb-4e37-9274-435ded874b6d",
-    "end_platform_amenity_id": "00b2ec40-f98a-4921-8499-6de26d74dbb4"
-  },
-  {
-    "station_code": "HIK",
     "walk_time_minutes": 2.09437865716573,
     "walk_distance_metres": 125.66271942994383,
     "google_polyline": "{}ngC{~ywT?A@?B@D@D@D@F@NDD@D@D@@?@GEA??C?????AAA?CAABAFCNABAFD@??B?????@@@?B@@G?AEAGAEAOCEAEAEA?CA?",
     "start_platform_amenity_id": "00b2ec40-f98a-4921-8499-6de26d74dbb4",
     "end_platform_amenity_id": "5632c86b-e8cb-4e37-9274-435ded874b6d"
+  },
+  {
+    "station_code": "HIK",
+    "walk_time_minutes": 2.0943786571657306,
+    "walk_distance_metres": 125.66271942994382,
+    "google_polyline": "w}ngCe~ywT@??BD@D@D@NBD@F@D@?@AFCAA?AA????C???EA@G@CBO@G@CB@@?@@????B???D@AFA?EAEAEAOEGAEAEAEACAA??@",
+    "start_platform_amenity_id": "5632c86b-e8cb-4e37-9274-435ded874b6d",
+    "end_platform_amenity_id": "00b2ec40-f98a-4921-8499-6de26d74dbb4"
   },
   {
     "station_code": "KAT",
@@ -2849,14 +2849,6 @@
   },
   {
     "station_code": "SUW",
-    "walk_time_minutes": 0.3678087768355066,
-    "walk_distance_metres": 22.068526610130395,
-    "google_polyline": "woggC{~}wTA@@@?BE@C@??C@?CCEA@?@",
-    "start_platform_amenity_id": "c6e9f9c1-9ba2-40de-a653-558f8b038985",
-    "end_platform_amenity_id": "238ed04d-6b77-4057-b520-ba826b6fab1c"
-  },
-  {
-    "station_code": "SUW",
     "walk_time_minutes": 0.36780877683550656,
     "walk_distance_metres": 22.068526610130398,
     "google_polyline": "kpggCs~}wT?A@ABD?BBA??BADA?CAA@A",
@@ -2864,28 +2856,28 @@
     "end_platform_amenity_id": "c6e9f9c1-9ba2-40de-a653-558f8b038985"
   },
   {
+    "station_code": "SUW",
+    "walk_time_minutes": 0.3678087768355066,
+    "walk_distance_metres": 22.068526610130395,
+    "google_polyline": "woggC{~}wTA@@@?BE@C@??C@?CCEA@?@",
+    "start_platform_amenity_id": "c6e9f9c1-9ba2-40de-a653-558f8b038985",
+    "end_platform_amenity_id": "238ed04d-6b77-4057-b520-ba826b6fab1c"
+  },
+  {
     "station_code": "TKW",
-    "walk_time_minutes": 1.7450799247533544,
-    "walk_distance_metres": 104.70479548520127,
-    "google_polyline": "gyegCig}wTD?D??C?EH???t@?@?F??B?B?@G?E?G?E?G?O?E?A?E?E?E?G???",
+    "walk_time_minutes": 2.3618533188027504,
+    "walk_distance_metres": 141.711199128165,
+    "google_polyline": "gyegCig}wTD?D?@?D?F?D?D?H?F?D?F?D?FA?C?CF???B?????@???R??FE?E?G?E?G??@G?E?G?E?G?O?E?A?E?E?E?G???",
     "start_platform_amenity_id": "d0c7d133-5602-499f-b80d-ea44c53bdec3",
     "end_platform_amenity_id": "f2bb4e89-498c-4cbe-8800-10b87f4d2765"
   },
   {
     "station_code": "TKW",
-    "walk_time_minutes": 1.7450799247533544,
-    "walk_distance_metres": 104.70479548520127,
-    "google_polyline": "gyegCig}wT??F?D?D?D?@?D?N?F?D?F?D?F??A?C?CG?A?u@???I??D?BE?E?",
+    "walk_time_minutes": 2.8396612156787335,
+    "walk_distance_metres": 170.37967294072405,
+    "google_polyline": "gyegCig}wT??F?D?D?D?@?D?N?F?D?F?D?F??A?CG?A?iA???E??F_@?A?A?C?AA?CD???f@???J??BE?E?",
     "start_platform_amenity_id": "f2bb4e89-498c-4cbe-8800-10b87f4d2765",
     "end_platform_amenity_id": "d0c7d133-5602-499f-b80d-ea44c53bdec3"
-  },
-  {
-    "station_code": "ETS",
-    "walk_time_minutes": 0.2348855117330876,
-    "walk_distance_metres": 14.093130703985256,
-    "google_polyline": "qragCw{zwT????ACOF@BA?",
-    "start_platform_amenity_id": "ac987781-4aa4-4f00-b879-af396d5bbda5",
-    "end_platform_amenity_id": "8722ce61-cbae-4e05-a3bd-ed6f9be46efc"
   },
   {
     "station_code": "ETS",
@@ -2894,6 +2886,14 @@
     "google_polyline": "csagCo{zwT@?ACNG@B????",
     "start_platform_amenity_id": "8722ce61-cbae-4e05-a3bd-ed6f9be46efc",
     "end_platform_amenity_id": "ac987781-4aa4-4f00-b879-af396d5bbda5"
+  },
+  {
+    "station_code": "ETS",
+    "walk_time_minutes": 0.2348855117330876,
+    "walk_distance_metres": 14.093130703985256,
+    "google_polyline": "qragCw{zwT????ACOF@BA?",
+    "start_platform_amenity_id": "ac987781-4aa4-4f00-b879-af396d5bbda5",
+    "end_platform_amenity_id": "8722ce61-cbae-4e05-a3bd-ed6f9be46efc"
   },
   {
     "station_code": "AUS",
@@ -2929,19 +2929,11 @@
   },
   {
     "station_code": "NAC",
-    "walk_time_minutes": 2.5199180142507696,
-    "walk_distance_metres": 151.19508085504617,
-    "google_polyline": "yrggCyuvwT?@BCBE??@@DBCB??g@n@??ILEKUSGGDG??h@q@??FIFDEFCBCDA@??",
+    "walk_time_minutes": 3.0062469354899846,
+    "walk_distance_metres": 180.37481612939902,
+    "google_polyline": "yrggCyuvwT?@BCBEBEFD?@B@DDGF??g@n@?@IJA?CCCCEKUSGGEEDE?Ah@o@@AFIBDFDEFCBCDA@??",
     "start_platform_amenity_id": "608f57bc-2dca-4ab8-a7b3-1ccb59ec72e1",
     "end_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c"
-  },
-  {
-    "station_code": "NAC",
-    "walk_time_minutes": 3.0617942968579817,
-    "walk_distance_metres": 183.70765781147887,
-    "google_polyline": "srggCetvwT??CDCBGEEHA?g@p@?@IJDDADj@h@BEDDB@HK@Ad@o@@?DIACCC@CDCDG@C??",
-    "start_platform_amenity_id": "f4b1cd23-b856-4969-85cd-81b344baa7d1",
-    "end_platform_amenity_id": "fa1a20c7-1b02-4abe-a8c2-4471a64deba5"
   },
   {
     "station_code": "NAC",
@@ -2953,11 +2945,11 @@
   },
   {
     "station_code": "NAC",
-    "walk_time_minutes": 2.9406285404309833,
-    "walk_distance_metres": 176.43771242585902,
-    "google_polyline": "srggCetvwT??CDCBGEEHA?g@p@?@IJCCCCA?ACCCGESQBEEEDG?Af@o@??FIDD?ADCBEBEDGBCBC",
+    "walk_time_minutes": 3.0617942968579817,
+    "walk_distance_metres": 183.70765781147887,
+    "google_polyline": "srggCetvwT??CDCBGEEHA?g@p@?@IJDDADj@h@BEDDB@HK@Ad@o@@?DIACCC@CDCDG@C??",
     "start_platform_amenity_id": "f4b1cd23-b856-4969-85cd-81b344baa7d1",
-    "end_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c"
+    "end_platform_amenity_id": "fa1a20c7-1b02-4abe-a8c2-4471a64deba5"
   },
   {
     "station_code": "NAC",
@@ -2969,6 +2961,22 @@
   },
   {
     "station_code": "NAC",
+    "walk_time_minutes": 3.1338081227367316,
+    "walk_distance_metres": 188.0284873642039,
+    "google_polyline": "srggCetvwT??CDCBGEEHA?g@p@?@IJCCCCA?ACCCGESQBEEECCCCDG?Af@m@?AFIBBBBDD?ADCBEBEDGBCBC",
+    "start_platform_amenity_id": "f4b1cd23-b856-4969-85cd-81b344baa7d1",
+    "end_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c"
+  },
+  {
+    "station_code": "NAC",
+    "walk_time_minutes": 4.041213772918393,
+    "walk_distance_metres": 242.47282637510344,
+    "google_polyline": "{pggCcsvwT??@ABCBEDEDGBC@ADDGH?@g@n@??ILKICDk@i@BEEECCA?CCCCEKUSGGEEDE?Ah@o@@AFIBDFDEFCBCDA@??",
+    "start_platform_amenity_id": "fa1a20c7-1b02-4abe-a8c2-4471a64deba5",
+    "end_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c"
+  },
+  {
+    "station_code": "NAC",
     "walk_time_minutes": 3.078644661323905,
     "walk_distance_metres": 184.71867967943427,
     "google_polyline": "{pggCcsvwT??ABEFEBABBBGHA?e@p@??KLEECDk@i@@EEECCHK?Af@q@??FI@@@@FDBCBE??",
@@ -2977,67 +2985,59 @@
   },
   {
     "station_code": "NAC",
-    "walk_time_minutes": 3.858707620573623,
-    "walk_distance_metres": 231.52245723441735,
-    "google_polyline": "{pggCcsvwT??ABEFEBABBBGHA?e@p@??KLEECDk@i@@EEECCCCA?ACCCGESQBEEEDG?Af@o@??FIDD?ADCBEBEDGBCBC",
-    "start_platform_amenity_id": "fa1a20c7-1b02-4abe-a8c2-4471a64deba5",
-    "end_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c"
-  },
-  {
-    "station_code": "NAC",
-    "walk_time_minutes": 2.5199180142507687,
-    "walk_distance_metres": 151.19508085504617,
-    "google_polyline": "ssggCkvvwT@ABEBCDGGEGH??i@p@??EFFFTRDJHM??f@o@??BCECAA??CDCB?A",
-    "start_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c",
-    "end_platform_amenity_id": "608f57bc-2dca-4ab8-a7b3-1ccb59ec72e1"
-  },
-  {
-    "station_code": "NAC",
-    "walk_time_minutes": 2.941204735148346,
-    "walk_distance_metres": 176.47228410890074,
-    "google_polyline": "ssggCkvvwTCBCBEFCDCDEB?@EEGH??g@n@?@EFDDCDRPFDBB@B@?BBHK?Af@q@??FI@@@@FDBCBE??",
+    "walk_time_minutes": 3.0382665329034535,
+    "walk_distance_metres": 182.29599197420717,
+    "google_polyline": "ssggCkvvwTCBCBEFCDCDEB?@EECCGH??g@n@?@EFBBDDCDRPFDBB@B@?BBHK?Af@q@??FI@@@@FDBCBE??",
     "start_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c",
     "end_platform_amenity_id": "f4b1cd23-b856-4969-85cd-81b344baa7d1"
   },
   {
     "station_code": "NAC",
-    "walk_time_minutes": 3.9486414115574524,
-    "walk_distance_metres": 236.91848469344706,
-    "google_polyline": "ssggCkvvwTCBCBEFCDCDEB?@EEGH??g@n@?@EFDDCDRPFDBB@B@?BBBBDDADj@h@BEDDB@HK@Ad@o@@?DIACCC@CDCDG@C??",
+    "walk_time_minutes": 3.3046831583843073,
+    "walk_distance_metres": 198.28098950305846,
+    "google_polyline": "ssggCkvvwTCBCBEFCDCDEB?@EECCGH??g@n@?@EFBBDDCDRPFDBB@BJK?Af@q@??@ACCCCCC@ABC@C@ABC?ADCDGBEBC@A?A",
+    "start_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c",
+    "end_platform_amenity_id": "608f57bc-2dca-4ab8-a7b3-1ccb59ec72e1"
+  },
+  {
+    "station_code": "NAC",
+    "walk_time_minutes": 4.045703209312559,
+    "walk_distance_metres": 242.74219255875346,
+    "google_polyline": "ssggCkvvwTCBCBEFCDCDEB?@EECCGH??g@n@?@EFBBDDCDRPFDBB@B@?BBBBDDADj@h@BEDDB@HK@Ad@o@@?DIACCC@CDCDG@C??",
     "start_platform_amenity_id": "f4c8a264-768d-4348-a2e8-73e2d909ee5c",
     "end_platform_amenity_id": "fa1a20c7-1b02-4abe-a8c2-4471a64deba5"
   },
   {
     "station_code": "MEF",
-    "walk_time_minutes": 2.0249704225987415,
-    "walk_distance_metres": 121.49822535592452,
-    "google_polyline": "e_jgCwhswT?AB?FAH?@??I??Q@E???a@B??G?@X@VF???^C@?J??IG@C??A",
+    "walk_time_minutes": 2.771171237394751,
+    "walk_distance_metres": 166.27027424368504,
+    "google_polyline": "e_jgCwhswT?AB?FAH?@??I???C?AQ@A?e@B??G??D@Xg@@@V?@?B??H?@?f@C??D??C?AAGD?FAF?B??A",
     "start_platform_amenity_id": "5713ceb0-00ff-493b-9665-28f71d107e77",
     "end_platform_amenity_id": "84a3cd0c-9727-45e4-babb-c3075f59e9fc"
   },
   {
     "station_code": "MEF",
-    "walk_time_minutes": 2.024970422598742,
-    "walk_distance_metres": 121.49822535592452,
-    "google_polyline": "a_jgC{gswT?@B?FA?HK?A?_@B??G?AWAYF???`@C??D?PA???HA?I?G@C??@",
+    "walk_time_minutes": 2.5398482918610337,
+    "walk_distance_metres": 152.39089751166202,
+    "google_polyline": "a_jgC{gswT?@B?FA?H?BE@A?e@@??G@?EAWg@@AW?EHA@?f@A??@??@?B@FD?@?DAF?B??@",
     "start_platform_amenity_id": "84a3cd0c-9727-45e4-babb-c3075f59e9fc",
     "end_platform_amenity_id": "5713ceb0-00ff-493b-9665-28f71d107e77"
   },
   {
     "station_code": "TWW",
-    "walk_time_minutes": 2.195534927031742,
-    "walk_distance_metres": 131.7320956219045,
-    "google_polyline": "gwogCccnwT@@CBEDIHABDFFI@?V[?AHIGE?AA?ACAAAAAAAACC@AGGIJ??YZ??IHDFBCDE??",
-    "start_platform_amenity_id": "67f88813-e055-403b-9987-c122b86fbbff",
-    "end_platform_amenity_id": "dee8f658-71f2-4d35-9a7a-afd13301984d"
+    "walk_time_minutes": 2.864325479370663,
+    "walk_distance_metres": 171.85952876223985,
+    "google_polyline": "exogCecnwT??BCBEHKDEBCDEDEFIDEHK@ABCBCGI@A@A@A??????@A??@AFH@@DD@@DFBEB@@@@B@@CD??CB????A@??ABIGCBCBA@IHCDIHEDABGFCDEDAA",
+    "start_platform_amenity_id": "dee8f658-71f2-4d35-9a7a-afd13301984d",
+    "end_platform_amenity_id": "67f88813-e055-403b-9987-c122b86fbbff"
   },
   {
     "station_code": "TWW",
-    "walk_time_minutes": 2.1955349270317424,
-    "walk_distance_metres": 131.73209562190448,
-    "google_polyline": "exogCecnwT??EDCBEGHI??X[??HKFFA@BB@@@@@@@@@B@??@FDIH?@WZA?GHEG@CHIDEBCAA",
-    "start_platform_amenity_id": "dee8f658-71f2-4d35-9a7a-afd13301984d",
-    "end_platform_amenity_id": "67f88813-e055-403b-9987-c122b86fbbff"
+    "walk_time_minutes": 3.1095284904048905,
+    "walk_distance_metres": 186.57170942429343,
+    "google_polyline": "gwogCccnwT@@DEBEFG@CDEHIBEHI@ABCBCHF@C??@A????BC??BEAAACAACACDIHMNOOUVGGIJCC??]`@??CB@BDFBCDE??",
+    "start_platform_amenity_id": "67f88813-e055-403b-9987-c122b86fbbff",
+    "end_platform_amenity_id": "dee8f658-71f2-4d35-9a7a-afd13301984d"
   },
   {
     "station_code": "KSR",
@@ -3105,19 +3105,19 @@
   },
   {
     "station_code": "SIH",
-    "walk_time_minutes": 0.46503069932736224,
-    "walk_distance_metres": 27.901841959641736,
-    "google_polyline": "kjxgCqotvTA?@CD@D???@I?A@IC?@E??",
-    "start_platform_amenity_id": "5d28033c-101d-4773-9b50-0e6ff1632e6c",
-    "end_platform_amenity_id": "30661aae-c565-47ec-86eb-d70674b145fb"
-  },
-  {
-    "station_code": "SIH",
     "walk_time_minutes": 0.46503069932736235,
     "walk_distance_metres": 27.90184195964174,
     "google_polyline": "}ixgCoptvT??ADB?AH?@AH??E?EAAB@?",
     "start_platform_amenity_id": "30661aae-c565-47ec-86eb-d70674b145fb",
     "end_platform_amenity_id": "5d28033c-101d-4773-9b50-0e6ff1632e6c"
+  },
+  {
+    "station_code": "SIH",
+    "walk_time_minutes": 0.46503069932736224,
+    "walk_distance_metres": 27.901841959641736,
+    "google_polyline": "kjxgCqotvTA?@CD@D???@I?A@IC?@E??",
+    "start_platform_amenity_id": "5d28033c-101d-4773-9b50-0e6ff1632e6c",
+    "end_platform_amenity_id": "30661aae-c565-47ec-86eb-d70674b145fb"
   },
   {
     "station_code": "TUM",
@@ -3138,18 +3138,18 @@
   {
     "station_code": "TUC",
     "walk_time_minutes": 0.3938448250491804,
-    "walk_distance_metres": 23.63068950295082,
-    "google_polyline": "yk`gCmemvT@ACC?AFGDE@@DF@AAA",
-    "start_platform_amenity_id": "1de990ed-c487-4c0d-bd6c-0cbe8cbf430d",
-    "end_platform_amenity_id": "5ba564fe-dedf-4484-b501-ea14ff5198be"
-  },
-  {
-    "station_code": "TUC",
-    "walk_time_minutes": 0.3938448250491804,
     "walk_distance_metres": 23.630689502950826,
     "google_polyline": "ek`gC}emvT@@A@EGAAEDGF?@BBA@",
     "start_platform_amenity_id": "5ba564fe-dedf-4484-b501-ea14ff5198be",
     "end_platform_amenity_id": "1de990ed-c487-4c0d-bd6c-0cbe8cbf430d"
+  },
+  {
+    "station_code": "TUC",
+    "walk_time_minutes": 0.3938448250491804,
+    "walk_distance_metres": 23.63068950295082,
+    "google_polyline": "yk`gCmemvT@ACC?AFGDE@@DF@AAA",
+    "start_platform_amenity_id": "1de990ed-c487-4c0d-bd6c-0cbe8cbf430d",
+    "end_platform_amenity_id": "5ba564fe-dedf-4484-b501-ea14ff5198be"
   },
   {
     "station_code": "LAK",
@@ -3161,27 +3161,19 @@
   },
   {
     "station_code": "LAK",
-    "walk_time_minutes": 2.15389676891544,
-    "walk_distance_metres": 129.23380613492643,
-    "google_polyline": "s|kgCagqwTA@?ADEDCFEDCDE@?KQEBOL??A@OJEDBD??@B????@@@@@B@@DEDF?@EB??A@??????@A??JGEGBCFCDEDC?A??",
+    "walk_time_minutes": 2.2352129294482643,
+    "walk_distance_metres": 134.11277576689588,
+    "google_polyline": "s|kgCagqwTA@?ADEDCFEDCDE@?KQEBOL??A@OJEDBD??@B????@@@@@B@@DEDFDC??ZS?AFECEEBGD?A??",
     "start_platform_amenity_id": "d23c8d00-7e06-4395-9687-78921ba60fa4",
     "end_platform_amenity_id": "fbe03e4b-a01a-4a40-8e9d-c6801c4a6c5e"
   },
   {
     "station_code": "LAK",
-    "walk_time_minutes": 2.1602090006593238,
-    "walk_distance_metres": 129.61254003955943,
-    "google_polyline": "s|kgCagqwTA@?ADEDCFEDCDE@?KQEBOL??A@OJEDBD??@B????@@@@@B@@DEDF?@EB??A@??????@A??JGBFDCDCFEDC?@??",
+    "walk_time_minutes": 2.2537198131489817,
+    "walk_distance_metres": 135.22318878893893,
+    "google_polyline": "s|kgCagqwTA@?ADEDCFEDCDE@?KQEBOL??A@OJEDBD??@B????@@@@@B@@DEDFDC??ZS?AFE@@?@BDEDEB?@??",
     "start_platform_amenity_id": "d23c8d00-7e06-4395-9687-78921ba60fa4",
     "end_platform_amenity_id": "6628eae7-5aff-4b3d-bf26-06558bd2326c"
-  },
-  {
-    "station_code": "LAK",
-    "walk_time_minutes": 1.5039679950842533,
-    "walk_distance_metres": 90.2380797050552,
-    "google_polyline": "_}kgCkhqwT???@??CBA?EDEDGBBDDF@?BD??@B????@@@@@B@@DEDF?@EB??A@??????@A??JGEGBCFCDEDC?A??",
-    "start_platform_amenity_id": "c1a4ad14-5869-472e-8fa6-7607d228e7cd",
-    "end_platform_amenity_id": "fbe03e4b-a01a-4a40-8e9d-c6801c4a6c5e"
   },
   {
     "station_code": "LAK",
@@ -3193,27 +3185,43 @@
   },
   {
     "station_code": "LAK",
-    "walk_time_minutes": 1.5102802268281366,
-    "walk_distance_metres": 90.61681360968818,
-    "google_polyline": "_}kgCkhqwT???@??CBA?EDEDGBBDDF@?BD??@B????@@@@@B@@DEDF?@EB??A@??????@A??JGBFDCDCFEDC?@??",
+    "walk_time_minutes": 1.5852841556170774,
+    "walk_distance_metres": 95.11704933702465,
+    "google_polyline": "_}kgCkhqwT???@??CBA?EDEDGBBDDF@?BD??@B????@@@@@B@@DEDFDC??ZS?AFECEEBGD?A??",
+    "start_platform_amenity_id": "c1a4ad14-5869-472e-8fa6-7607d228e7cd",
+    "end_platform_amenity_id": "fbe03e4b-a01a-4a40-8e9d-c6801c4a6c5e"
+  },
+  {
+    "station_code": "LAK",
+    "walk_time_minutes": 1.603791039317795,
+    "walk_distance_metres": 96.2274623590677,
+    "google_polyline": "_}kgCkhqwT???@??CBA?EDEDGBBDDF@?BD??@B????@@@@@B@@DEDFDC??ZS?AFE@@?@BDEDEB?@??",
     "start_platform_amenity_id": "c1a4ad14-5869-472e-8fa6-7607d228e7cd",
     "end_platform_amenity_id": "6628eae7-5aff-4b3d-bf26-06558bd2326c"
   },
   {
     "station_code": "LAK",
-    "walk_time_minutes": 2.1538967689154407,
-    "walk_distance_metres": 129.2338061349264,
-    "google_polyline": "{{kgCogqwT???@EBEDGBCBDFKF??A@??????@A??DC?AEGEDAAACAAAA????AC??CEDENK@A??NMDCJPA?EDEBGDEBED?@@A",
+    "walk_time_minutes": 2.3025378583182983,
+    "walk_distance_metres": 138.15227149909782,
+    "google_polyline": "{{kgCogqwT???@FEDCBD@@?@GD??[T??EBAA?AEGEDAAACAAAA????AC??CEDENK@A??NMDCJPA?EDEBGDEBED?@@A",
     "start_platform_amenity_id": "fbe03e4b-a01a-4a40-8e9d-c6801c4a6c5e",
     "end_platform_amenity_id": "d23c8d00-7e06-4395-9687-78921ba60fa4"
   },
   {
     "station_code": "LAK",
-    "walk_time_minutes": 1.5039679950842537,
-    "walk_distance_metres": 90.23807970505521,
-    "google_polyline": "{{kgCogqwT???@EBEDGBCBDFKF??A@??????@A??DC?AEGEDAAACAAAA????AC??CEA?EGCEFCDEDE@?BC???A??",
+    "walk_time_minutes": 1.6526090844871115,
+    "walk_distance_metres": 99.15654506922664,
+    "google_polyline": "{{kgCogqwT???@FEDCBD@@?@GD??[T??EBAA?AEGEDAAACAAAA????AC??CEA?EGCEFCDEDE@?BC???A??",
     "start_platform_amenity_id": "fbe03e4b-a01a-4a40-8e9d-c6801c4a6c5e",
     "end_platform_amenity_id": "c1a4ad14-5869-472e-8fa6-7607d228e7cd"
+  },
+  {
+    "station_code": "LAK",
+    "walk_time_minutes": 2.2536911614658,
+    "walk_distance_metres": 135.22146968794794,
+    "google_polyline": "o{kgC{fqwT???ADCDECEGD??[T??EBAA?AEGEDAAACAAAA????AC??CEDENK@A??NMDCJPA?EDEBGDEBED?@@A",
+    "start_platform_amenity_id": "6628eae7-5aff-4b3d-bf26-06558bd2326c",
+    "end_platform_amenity_id": "d23c8d00-7e06-4395-9687-78921ba60fa4"
   },
   {
     "station_code": "LAK",
@@ -3225,17 +3233,9 @@
   },
   {
     "station_code": "LAK",
-    "walk_time_minutes": 2.1602090006593238,
-    "walk_distance_metres": 129.61254003955938,
-    "google_polyline": "o{kgC{fqwT???AEBGDEBEBCGKF??A@??????@A??DC?AEGEDAAACAAAA????AC??CEDENK@A??NMDCJPA?EDEBGDEBED?@@A",
-    "start_platform_amenity_id": "6628eae7-5aff-4b3d-bf26-06558bd2326c",
-    "end_platform_amenity_id": "d23c8d00-7e06-4395-9687-78921ba60fa4"
-  },
-  {
-    "station_code": "LAK",
-    "walk_time_minutes": 1.5102802268281368,
-    "walk_distance_metres": 90.61681360968821,
-    "google_polyline": "o{kgC{fqwT???AEBGDEBEBCGKF??A@??????@A??DC?AEGEDAAACAAAA????AC??CEA?EGCEFCDEDE@?BC???A??",
+    "walk_time_minutes": 1.6037623876346134,
+    "walk_distance_metres": 96.22574325807676,
+    "google_polyline": "o{kgC{fqwT???ADCDECEGD??[T??EBAA?AEGEDAAACAAAA????AC??CEA?EGCEFCDEDE@?BC???A??",
     "start_platform_amenity_id": "6628eae7-5aff-4b3d-bf26-06558bd2326c",
     "end_platform_amenity_id": "c1a4ad14-5869-472e-8fa6-7607d228e7cd"
   },
@@ -3265,17 +3265,17 @@
   },
   {
     "station_code": "HAH",
-    "walk_time_minutes": 1.8182228059152603,
-    "walk_distance_metres": 109.09336835491561,
-    "google_polyline": "}pegC_flxT@@??BB??@B@@LI??HG???AAA??ID?@A?A@A@EBAA?K?C?CGAIGDE@?@A@A??HE???CAA??IFA?MH@B@@@B?@?@",
+    "walk_time_minutes": 2.3945834199757643,
+    "walk_distance_metres": 143.67500519854588,
+    "google_polyline": "}pegC_flxT@@A@GDEBGBEDEBA@@D@?\\U@A???@HE?AAA?K?C?CGAIGKB@@??A?]T?@@B@?FEDCDCFEDCBA?@",
     "start_platform_amenity_id": "13478fb1-2dce-4b58-85b0-b0248b64372d",
     "end_platform_amenity_id": "d1d59302-b0ec-4a1b-9757-ec62cf4f9f00"
   },
   {
     "station_code": "HAH",
-    "walk_time_minutes": 1.8182228059152599,
-    "walk_distance_metres": 109.0933683549156,
-    "google_polyline": "gqegCoflxT?A?AACAAACLI@?HG??@@?B??ID??A@A@A?EDHFF@?B?B?J@@DC@A@A@??AHE??@@?@??IF??MHAAAC??CC??AA",
+    "walk_time_minutes": 2.425203299151289,
+    "walk_distance_metres": 145.51219794907732,
+    "google_polyline": "gqegCoflxT?AC@EBGDEBEBGDA?ACCE??^U??@??@JCHFF@VOHPBC@?@A??????@A@?EGA@EBCBA?EBA@EBGBEDC@??AA",
     "start_platform_amenity_id": "d1d59302-b0ec-4a1b-9757-ec62cf4f9f00",
     "end_platform_amenity_id": "13478fb1-2dce-4b58-85b0-b0248b64372d"
   },
@@ -3299,25 +3299,17 @@
     "station_code": "LHP",
     "walk_time_minutes": 0.21687541610570493,
     "walk_distance_metres": 13.012524966342296,
-    "google_polyline": "gqagCcamxT??BBBCBCAC?A??",
-    "start_platform_amenity_id": "7ea80739-a6b1-49ba-a7e5-2a28a0cdca39",
-    "end_platform_amenity_id": "1a0e8851-8e7f-425f-9c49-6c2199de8533"
-  },
-  {
-    "station_code": "LHP",
-    "walk_time_minutes": 0.21687541610570493,
-    "walk_distance_metres": 13.012524966342296,
     "google_polyline": "}pagCmamxT???@@BCBCBCC??",
     "start_platform_amenity_id": "1a0e8851-8e7f-425f-9c49-6c2199de8533",
     "end_platform_amenity_id": "7ea80739-a6b1-49ba-a7e5-2a28a0cdca39"
   },
   {
-    "station_code": "TSW",
-    "walk_time_minutes": 2.216199390278978,
-    "walk_distance_metres": 132.97196341673867,
-    "google_polyline": "g{pgCarowTAAABAFCFCF??EAAAA?BGAA??CA??????B@??FBBIJFDKDK@CBKHADLAH??A?K\\?@CDAACAA?AA@ABGBG?A@AA?",
-    "start_platform_amenity_id": "00030d1b-9c3c-4027-a6fa-ebb971d1e52a",
-    "end_platform_amenity_id": "e4833f5b-916d-4399-90af-56ef43f8eed7"
+    "station_code": "LHP",
+    "walk_time_minutes": 0.21687541610570493,
+    "walk_distance_metres": 13.012524966342296,
+    "google_polyline": "gqagCcamxT??BBBCBCAC?A??",
+    "start_platform_amenity_id": "7ea80739-a6b1-49ba-a7e5-2a28a0cdca39",
+    "end_platform_amenity_id": "1a0e8851-8e7f-425f-9c49-6c2199de8533"
   },
   {
     "station_code": "TSW",
@@ -3328,12 +3320,12 @@
     "end_platform_amenity_id": "00030d1b-9c3c-4027-a6fa-ebb971d1e52a"
   },
   {
-    "station_code": "TWH",
-    "walk_time_minutes": 0.6600418635906135,
-    "walk_distance_metres": 39.602511815436806,
-    "google_polyline": "ehpgCe`qwT?AC?@F?H?F?@C?A?G??C?I?G?CA?",
-    "start_platform_amenity_id": "cc23a809-64b7-4f8b-943f-db3bed8bd8ce",
-    "end_platform_amenity_id": "ebd6fe54-3a26-4022-8d44-4616b436a8f3"
+    "station_code": "TSW",
+    "walk_time_minutes": 2.216199390278978,
+    "walk_distance_metres": 132.97196341673867,
+    "google_polyline": "g{pgCarowTAAABAFCFCF??EAAAA?BGAA??CA??????B@??FBBIJFDKDK@CBKHADLAH??A?K\\?@CDAACAA?AA@ABGBG?A@AA?",
+    "start_platform_amenity_id": "00030d1b-9c3c-4027-a6fa-ebb971d1e52a",
+    "end_platform_amenity_id": "e4833f5b-916d-4399-90af-56ef43f8eed7"
   },
   {
     "station_code": "TWH",
@@ -3344,20 +3336,28 @@
     "end_platform_amenity_id": "cc23a809-64b7-4f8b-943f-db3bed8bd8ce"
   },
   {
-    "station_code": "KWH",
-    "walk_time_minutes": 2.2060847304194664,
-    "walk_distance_metres": 132.36508382516791,
-    "google_polyline": "wxngCegrwT???AG?G?G?C??EJ@??^???H??@ALWAI?W?BLH???^@???C??G?GAA???",
-    "start_platform_amenity_id": "bbe8d386-b465-4b21-b56f-40d900c137f8",
-    "end_platform_amenity_id": "9e43053c-6577-442f-b723-d378d770cdcb"
+    "station_code": "TWH",
+    "walk_time_minutes": 0.6600418635906135,
+    "walk_distance_metres": 39.602511815436806,
+    "google_polyline": "ehpgCe`qwT?AC?@F?H?F?@C?A?G??C?I?G?CA?",
+    "start_platform_amenity_id": "cc23a809-64b7-4f8b-943f-db3bed8bd8ce",
+    "end_platform_amenity_id": "ebd6fe54-3a26-4022-8d44-4616b436a8f3"
   },
   {
     "station_code": "KWH",
-    "walk_time_minutes": 1.9469149786204447,
-    "walk_distance_metres": 116.81489871722668,
-    "google_polyline": "}xngCsfrwT??@?F@F????B??_@A??I?CMCM??c@A???B@?F?F@F?@?D?F?B?B?F?F?F??@??",
+    "walk_time_minutes": 2.4909601528193748,
+    "walk_distance_metres": 149.45760916916248,
+    "google_polyline": "}xngCsfrwT??@?F@F???F?F?F?F?F?F?F?B@A@??c@???IK?A@MF???b@@??@@E?G?G?G?G?I?GA??G?G??@??",
     "start_platform_amenity_id": "9e43053c-6577-442f-b723-d378d770cdcb",
     "end_platform_amenity_id": "bbe8d386-b465-4b21-b56f-40d900c137f8"
+  },
+  {
+    "station_code": "KWH",
+    "walk_time_minutes": 3.0255427251007476,
+    "walk_distance_metres": 181.5325635060449,
+    "google_polyline": "wxngCegrwT???AG?G?G?C?C?G?E?A?G?GAG?A?E?CAC?E?A@G?AA?A@A@?@@???AB???J@?DF?D?D?B?D@?D@@P?BLGA??c@????A?AB?F?F?F@H?F?F?@?D?D???",
+    "start_platform_amenity_id": "bbe8d386-b465-4b21-b56f-40d900c137f8",
+    "end_platform_amenity_id": "9e43053c-6577-442f-b723-d378d770cdcb"
   },
   {
     "station_code": "KWF",
@@ -3369,9 +3369,9 @@
   },
   {
     "station_code": "KWF",
-    "walk_time_minutes": 3.3388472508423477,
-    "walk_distance_metres": 200.33083505054083,
-    "google_polyline": "mqmgCqqqwT?@AAGEECECA@ABA?HF@?ZT??@CFKLHFKPL??VP@?ZVA@AAECEEGCEEECGEECGEECEE??CA?AGGGCEEECA@CA",
+    "walk_time_minutes": 3.3932243110584577,
+    "walk_distance_metres": 203.5934586635073,
+    "google_polyline": "mqmgCqqqwT?@B@DDFBDDDBABIGIGA?[S?ACADIOK@AFKCCA?[U??YSAB??DBFDDBDDFDDBDBFD????DDBB@A@@DBDD@ADDDBFDA@CA",
     "start_platform_amenity_id": "56e58596-3955-404c-a400-90ceb57dbc85",
     "end_platform_amenity_id": "605a7351-0c7d-447c-9baf-de503f9a82dd"
   },
@@ -3409,19 +3409,19 @@
   },
   {
     "station_code": "SSP",
-    "walk_time_minutes": 0.20388572589035187,
-    "walk_distance_metres": 12.23314355342111,
-    "google_polyline": "}nhgC{hxwT@@A@FDBB@A??",
-    "start_platform_amenity_id": "c79e779c-97d8-4d12-bb9d-46d9e7ca8d8d",
-    "end_platform_amenity_id": "4e267cfc-490e-4e3f-b937-91ebae144bf5"
-  },
-  {
-    "station_code": "SSP",
     "walk_time_minutes": 0.20388572589035184,
     "walk_distance_metres": 12.23314355342111,
     "google_polyline": "onhgCohxwT??A@CCGE@AAA",
     "start_platform_amenity_id": "4e267cfc-490e-4e3f-b937-91ebae144bf5",
     "end_platform_amenity_id": "c79e779c-97d8-4d12-bb9d-46d9e7ca8d8d"
+  },
+  {
+    "station_code": "SSP",
+    "walk_time_minutes": 0.20388572589035187,
+    "walk_distance_metres": 12.23314355342111,
+    "google_polyline": "}nhgC{hxwT@@A@FDBB@A??",
+    "start_platform_amenity_id": "c79e779c-97d8-4d12-bb9d-46d9e7ca8d8d",
+    "end_platform_amenity_id": "4e267cfc-490e-4e3f-b937-91ebae144bf5"
   },
   {
     "station_code": "JOR",
@@ -3457,17 +3457,17 @@
   },
   {
     "station_code": "OCP",
-    "walk_time_minutes": 0.8388440434439612,
-    "walk_distance_metres": 50.33064260663768,
-    "google_polyline": "anxfCwuzwT???ACBAC??BEA@@@?@@@BF@AFCHECIAAAC@AB@?@@@CB??",
+    "walk_time_minutes": 1.3436353764229934,
+    "walk_distance_metres": 80.61812258537957,
+    "google_polyline": "anxfCwuzwT???AACCGCECGACCBAC?AAA????@B??BD@?@??AHE??FC@A@ACE??AC@????@?@@BA@?@BFBDBFBD??",
     "start_platform_amenity_id": "357163b9-4b5f-4995-a4db-9d8ca8122b8c",
     "end_platform_amenity_id": "4c925845-2cfc-4edf-9d6a-e2fc3cad7f0e"
   },
   {
     "station_code": "OCP",
-    "walk_time_minutes": 0.8388440434439612,
-    "walk_distance_metres": 50.33064260663767,
-    "google_polyline": "mmxfCcvzwT??BCAA?ACAA@@B@@BHIDGBA@CGAA?AAA@ACD??@BBC?@??",
+    "walk_time_minutes": 1.3436353764229927,
+    "walk_distance_metres": 80.61812258537957,
+    "google_polyline": "mmxfCcvzwT??CECGCECG?A@AAC?A?A??A?@B??BDA@A@GB??ID?@A?A?CE??AC????@@?@@BBC@BBFBDBF@B?@??",
     "start_platform_amenity_id": "4c925845-2cfc-4edf-9d6a-e2fc3cad7f0e",
     "end_platform_amenity_id": "357163b9-4b5f-4995-a4db-9d8ca8122b8c"
   },
